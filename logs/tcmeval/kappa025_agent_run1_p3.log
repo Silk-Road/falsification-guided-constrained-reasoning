@@ -1,0 +1,128 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 50  任务: both
+后端: vLLM @ http://<VLLM_HOST>:8800/v1  模型: Qwen/Qwen3-4B
+智能体就绪
+
+[1/50] 病例9 gold=J pred=C;D;G ✗ official=0.00 F1=0.00 (21s)
+[2/50] 病例129 gold=C;I pred=E ✗ official=0.00 F1=0.00 (13s)
+[3/50] 病例241 gold=D;I pred=C;D;E ~ official=0.25 F1=0.40 (26s)
+[4/50] 病例178 gold=E;G pred=C ✗ official=0.00 F1=0.00 (25s)
+[5/50] 病例146 gold=B;H pred=D ✗ official=0.00 F1=0.00 (18s)
+[6/50] 病例138 gold=B;C pred=G ✗ official=0.00 F1=0.00 (16s)
+[7/50] 病例151 gold=D;G pred=D;G ✓ official=1.00 F1=1.00 (18s)
+[8/50] 病例114 gold=B;I pred=B;D;F ~ official=0.25 F1=0.40 (20s)
+[9/50] 病例105 gold=A;D pred=A ~ official=0.50 F1=0.67 (18s)
+[10/50] 病例91 gold=B;E pred=E ~ official=0.50 F1=0.67 (19s)
+[11/50] 病例196 gold=C;H pred=B ✗ official=0.00 F1=0.00 (17s)
+[12/50] 病例88 gold=H pred=F ✗ official=0.00 F1=0.00 (23s)
+[13/50] 病例272 gold=A;J pred=I;J ~ official=0.33 F1=0.50 (14s)
+[14/50] 病例236 gold=A;D pred=A;D ✓ official=1.00 F1=1.00 (23s)
+[15/50] 病例72 gold=D pred=A ✗ official=0.00 F1=0.00 (20s)
+[16/50] 病例250 gold=B pred=B;I ~ official=0.50 F1=0.67 (18s)
+[17/50] 病例204 gold=H;I pred=H ~ official=0.50 F1=0.67 (17s)
+[18/50] 病例222 gold=B;C pred=A;C ~ official=0.33 F1=0.50 (19s)
+[19/50] 病例210 gold=C;E;F pred=E;H ~ official=0.25 F1=0.40 (18s)
+[20/50] 病例267 gold=F;G pred=A ✗ official=0.00 F1=0.00 (23s)
+[21/50] 病例308 gold=F pred=H ✗ official=0.00 F1=0.00 (22s)
+[22/50] 病例50 gold=C;G pred=B;G ~ official=0.33 F1=0.50 (20s)
+[23/50] 病例109 gold=I pred=A;F;I;J ~ official=0.25 F1=0.40 (24s)
+[24/50] 病例69 gold=J pred=A ✗ official=0.00 F1=0.00 (24s)
+[25/50] 病例100 gold=C;G pred=C;G ✓ official=1.00 F1=1.00 (22s)
+[26/50] 病例230 gold=B;J pred=C;I;J ~ official=0.25 F1=0.40 (19s)
+[27/50] 病例220 gold=A;I pred=C;E;F;I;J ~ official=0.17 F1=0.29 (23s)
+[28/50] 病例113 gold=F;J pred=F ~ official=0.50 F1=0.67 (20s)
+[29/50] 病例273 gold=E;H pred=F ✗ official=0.00 F1=0.00 (15s)
+[30/50] 病例238 gold=I pred=I ✓ official=1.00 F1=1.00 (15s)
+[31/50] 病例195 gold=H pred=C ✗ official=0.00 F1=0.00 (19s)
+[32/50] 病例42 gold=D;I pred=J ✗ official=0.00 F1=0.00 (13s)
+[33/50] 病例117 gold=I pred=I ✓ official=1.00 F1=1.00 (17s)
+[34/50] 病例66 gold=H;J pred=D ✗ official=0.00 F1=0.00 (14s)
+[35/50] 病例84 gold=E;H pred=C;I ✗ official=0.00 F1=0.00 (18s)
+[36/50] 病例312 gold=B;D pred=B ~ official=0.50 F1=0.67 (17s)
+[37/50] 病例160 gold=B;I pred=A;C;E;F;G;H;I ~ official=0.12 F1=0.22 (18s)
+[38/50] 病例4 gold=E;F pred=E ~ official=0.50 F1=0.67 (22s)
+[39/50] 病例148 gold=H pred=H ✓ official=1.00 F1=1.00 (18s)
+[40/50] 病例143 gold=F pred=A ✗ official=0.00 F1=0.00 (28s)
+[41/50] 病例20 gold=A;C;G pred=A;C ~ official=0.67 F1=0.80 (18s)
+[42/50] 病例307 gold=E pred=A ✗ official=0.00 F1=0.00 (19s)
+[43/50] 病例268 gold=B;J pred=G ✗ official=0.00 F1=0.00 (20s)
+[44/50] 病例302 gold=D pred=D;I ~ official=0.50 F1=0.67 (20s)
+[45/50] 病例152 gold=D pred=C ✗ official=0.00 F1=0.00 (13s)
+[46/50] 病例157 gold=B;H pred=J ✗ official=0.00 F1=0.00 (19s)
+[47/50] 病例227 gold=A;J pred=B ✗ official=0.00 F1=0.00 (20s)
+[48/50] 病例299 gold=E pred=A;B;G;H;I;J ✗ official=0.00 F1=0.00 (14s)
+[49/50] 病例112 gold=G pred=G;H ~ official=0.50 F1=0.67 (16s)
+[50/50] 病例75 gold=C;D;E pred=C ~ official=0.33 F1=0.50 (17s)
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 50,
+  "official_score_mean": 0.2808,
+  "exact_match": 0.12,
+  "hit_rate": 0.54,
+  "macro_f1": 0.3462,
+  "unparsed": 0,
+  "avg_seconds": 19.0
+}
+[1/50] 病例9 gold=A;C;F;G;I pred=A ~ official=0.20 F1=0.33 (18s)
+[2/50] 病例129 gold=C;G pred=F ✗ official=0.00 F1=0.00 (18s)
+[3/50] 病例241 gold=A;J pred=E ✗ official=0.00 F1=0.00 (21s)
+[4/50] 病例178 gold=A;B pred=B;F;G ~ official=0.25 F1=0.40 (24s)
+[5/50] 病例146 gold=C;F pred=F ~ official=0.50 F1=0.67 (21s)
+[6/50] 病例138 gold=C;J pred=D ✗ official=0.00 F1=0.00 (12s)
+[7/50] 病例151 gold=A;E;G pred=A;E ~ official=0.67 F1=0.80 (19s)
+[8/50] 病例114 gold=B;G;I pred=B ~ official=0.33 F1=0.50 (17s)
+[9/50] 病例105 gold=B;C;E;G pred=B ~ official=0.25 F1=0.40 (19s)
+[10/50] 病例91 gold=A;I;J pred=A ~ official=0.33 F1=0.50 (17s)
+[11/50] 病例196 gold=C;E;G pred=A ✗ official=0.00 F1=0.00 (16s)
+[12/50] 病例88 gold=F;H pred=A;B;C;D;E;F;G;H;I;J ~ official=0.20 F1=0.33 (19s)
+[13/50] 病例272 gold=C;H pred=C;D;I ~ official=0.25 F1=0.40 (17s)
+[14/50] 病例236 gold=H;I pred=E ✗ official=0.00 F1=0.00 (18s)
+[15/50] 病例72 gold=A;B;I pred=B;F ~ official=0.25 F1=0.40 (14s)
+[16/50] 病例250 gold=H pred=H;I ~ official=0.50 F1=0.67 (22s)
+[17/50] 病例204 gold=B;I pred=A ✗ official=0.00 F1=0.00 (17s)
+[18/50] 病例222 gold=H;J pred=A ✗ official=0.00 F1=0.00 (16s)
+[19/50] 病例210 gold=B;C;D pred=C;D;E;I ~ official=0.40 F1=0.57 (18s)
+[20/50] 病例267 gold=B;E;F pred=B;E;I ~ official=0.50 F1=0.67 (23s)
+[21/50] 病例308 gold=D pred=B;G ✗ official=0.00 F1=0.00 (26s)
+[22/50] 病例50 gold=I;J pred=E ✗ official=0.00 F1=0.00 (18s)
+[23/50] 病例109 gold=I;J pred=I ~ official=0.50 F1=0.67 (19s)
+[24/50] 病例69 gold=C;D;I pred=C;D;F;G ~ official=0.40 F1=0.57 (19s)
+[25/50] 病例100 gold=A;B;J pred=A;G;H ~ official=0.20 F1=0.33 (19s)
+[26/50] 病例230 gold=H;I pred=G ✗ official=0.00 F1=0.00 (24s)
+[27/50] 病例220 gold=A;G pred=A;F;H ~ official=0.25 F1=0.40 (20s)
+[28/50] 病例113 gold=B;F pred=B ~ official=0.50 F1=0.67 (22s)
+[29/50] 病例273 gold=B;D pred=B;F ~ official=0.33 F1=0.50 (19s)
+[30/50] 病例238 gold=E;J pred=E ~ official=0.50 F1=0.67 (19s)
+[31/50] 病例195 gold=E pred=E ✓ official=1.00 F1=1.00 (17s)
+[32/50] 病例42 gold=H;J pred=B ✗ official=0.00 F1=0.00 (21s)
+[33/50] 病例117 gold=G pred=A;B;G ~ official=0.33 F1=0.50 (20s)
+[34/50] 病例66 gold=D;G;I pred=G;I;J ~ official=0.50 F1=0.67 (14s)
+[35/50] 病例84 gold=H;J pred=E ✗ official=0.00 F1=0.00 (18s)
+[36/50] 病例312 gold=H;I pred=I ~ official=0.50 F1=0.67 (16s)
+[37/50] 病例160 gold=C;G;H pred=G ~ official=0.33 F1=0.50 (17s)
+[38/50] 病例4 gold=C;D;F;G;I;J pred=A;B;C;D;F;G;H;J ~ official=0.56 F1=0.71 (20s)
+[39/50] 病例148 gold=A;D;F pred=A;B;C;D;E;F;G;H;I;J ~ official=0.30 F1=0.46 (14s)
+[40/50] 病例143 gold=H;J pred=D;E;I;J ~ official=0.20 F1=0.33 (19s)
+[41/50] 病例20 gold=C;D;E pred=E ~ official=0.33 F1=0.50 (19s)
+[42/50] 病例307 gold=F pred=D;G ✗ official=0.00 F1=0.00 (16s)
+[43/50] 病例268 gold=A;C pred=I ✗ official=0.00 F1=0.00 (27s)
+[44/50] 病例302 gold=A;G pred=A;G ✓ official=1.00 F1=1.00 (22s)
+[45/50] 病例152 gold=B pred=B ✓ official=1.00 F1=1.00 (16s)
+[46/50] 病例157 gold=A;C;F;I pred=E ✗ official=0.00 F1=0.00 (19s)
+[47/50] 病例227 gold=G;J pred=A;E;G;H;J ~ official=0.40 F1=0.57 (19s)
+[48/50] 病例299 gold=E pred=E;G ~ official=0.50 F1=0.67 (17s)
+[49/50] 病例112 gold=B;F pred=A;F;G ~ official=0.25 F1=0.40 (16s)
+[50/50] 病例75 gold=A;J pred=J ~ official=0.50 F1=0.67 (18s)
+
+=== 病机任务汇总 ===
+{
+  "task": "病机",
+  "n": 50,
+  "official_score_mean": 0.3004,
+  "exact_match": 0.06,
+  "hit_rate": 0.7,
+  "macro_f1": 0.4018,
+  "unparsed": 0,
+  "avg_seconds": 18.7
+}

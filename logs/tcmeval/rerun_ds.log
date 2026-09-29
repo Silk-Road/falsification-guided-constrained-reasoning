@@ -1,0 +1,21 @@
+[06:31:01] ds_agent_run1_p3 完成（1次尝试）
+[06:31:59] ds_agent_run1_p1 完成（1次尝试）
+[06:36:18] ds_agent_run1_p0 完成（1次尝试）
+[06:44:56] ds_agent_run1_p2 完成（1次尝试）
+=== k3 agent run1 完成 06:44:56 ===
+[10:17:58] ds_agent_run2_p2 完成（1次尝试）
+[10:22:07] ds_agent_run2_p1 完成（1次尝试）
+[10:22:16] ds_agent_run2_p0 完成（1次尝试）
+[10:32:12] ds_agent_run2_p3 完成（1次尝试）
+=== k3 agent run2 完成 10:32:12 ===
+[13:50:02] ds_agent_run3_p0 完成（1次尝试）
+[13:58:42] ds_agent_run3_p2 完成（1次尝试）
+[14:07:56] ds_agent_run3_p1 完成（1次尝试）
+[14:12:21] ds_agent_run3_p3 完成（1次尝试）
+=== k3 agent run3 完成 14:12:21 ===
+[15:51:28] ds_zero_run3_p0 完成（1次尝试）
+[15:53:40] ds_zero_run3_p1 完成（1次尝试）
+[15:55:41] ds_zero_run3_p2 完成（1次尝试）
+[16:01:24] ds_zero_run3_p3 完成（1次尝试）
+=== k3 zero run3 完成 16:01:24 ===
+K3 RERUN ALL DONE

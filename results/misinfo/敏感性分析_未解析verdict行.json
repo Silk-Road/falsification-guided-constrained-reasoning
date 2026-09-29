@@ -1,0 +1,10 @@
+{
+ "misaligned_rows": 30,
+ "unparsed_rows": 51,
+ "unparsed_perturbed_eqs": 289,
+ "unparsed_total_eqs": 297,
+ "recall_orig": 0.8979,
+ "recall_conservative": 0.7922,
+ "fpr_orig": 0.0677,
+ "fpr_conservative": 0.0638
+}

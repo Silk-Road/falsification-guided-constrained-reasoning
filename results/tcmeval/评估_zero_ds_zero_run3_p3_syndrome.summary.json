@@ -1,0 +1,10 @@
+{
+  "task": "证型",
+  "model": "deepseek-v4-flash",
+  "n": 50,
+  "official_score_mean": 0.2567,
+  "exact_match": 0.2,
+  "hit_rate": 0.32,
+  "macro_f1": 0.276,
+  "avg_seconds": 64.5
+}

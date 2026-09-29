@@ -1,0 +1,10 @@
+{
+  "task": "证型",
+  "n": 60,
+  "official_score_mean": 0.5936,
+  "exact_match": 0.3,
+  "hit_rate": 0.9333,
+  "macro_f1": 0.6947,
+  "unparsed": 0,
+  "avg_seconds": 46.7
+}

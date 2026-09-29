@@ -1,0 +1,140 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 34  任务: both
+后端: vLLM @ https://api.deepseek.com/v1  模型: deepseek-v4-flash
+智能体就绪
+
+[1/34] 病例30 gold=B;I pred=B;I ✓ official=1.00 F1=1.00 (157s)
+[2/34] 病例350 gold=B pred=B;C;G;H;I ~ official=0.20 F1=0.33 (262s)
+[3/34] 病例46 gold=F pred=F ✓ official=1.00 F1=1.00 (55s)
+[4/34] 病例259 gold=H pred=H ✓ official=1.00 F1=1.00 (122s)
+[5/34] 病例111 gold=C;F;I pred=- ✗ official=0.00 F1=0.00 (326s)
+[6/34] 病例150 gold=H;J pred=G ✗ official=0.00 F1=0.00 (253s)
+[7/34] 病例305 gold=F pred=B;F ~ official=0.50 F1=0.67 (17s)
+[8/34] 病例225 gold=B pred=- ✗ official=0.00 F1=0.00 (292s)
+[9/34] 病例93 gold=D pred=A;D ~ official=0.50 F1=0.67 (131s)
+[10/34] 病例159 gold=H;I pred=A;D;H ~ official=0.25 F1=0.40 (236s)
+[11/34] 病例85 gold=G;H pred=- ✗ official=0.00 F1=0.00 (306s)
+[12/34] 病例260 gold=I pred=I ✓ official=1.00 F1=1.00 (87s)
+[13/34] 病例53 gold=E pred=- ✗ official=0.00 F1=0.00 (329s)
+[14/34] 病例14 gold=B;C pred=B;C ✓ official=1.00 F1=1.00 (185s)
+[15/34] 病例269 gold=C;G pred=G ~ official=0.50 F1=0.67 (264s)
+[16/34] 病例248 gold=J pred=J ✓ official=1.00 F1=1.00 (161s)
+[17/34] 病例77 gold=G;I pred=C;I;J ~ official=0.25 F1=0.40 (233s)
+[18/34] 病例12 gold=C;E;F pred=C;E;F ✓ official=1.00 F1=1.00 (144s)
+[19/34] 病例191 gold=D pred=D ✓ official=1.00 F1=1.00 (233s)
+[20/34] 病例263 gold=I pred=I ✓ official=1.00 F1=1.00 (43s)
+[21/34] 病例128 gold=A;B pred=A;B;I ~ official=0.67 F1=0.80 (249s)
+[22/34] 病例254 gold=A pred=A;C ~ official=0.50 F1=0.67 (273s)
+[23/34] 病例135 gold=G pred=G;I ~ official=0.50 F1=0.67 (210s)
+[24/34] 病例346 gold=H pred=B;C;F;H ~ official=0.25 F1=0.40 (225s)
+[25/34] 病例26 gold=C;E;G pred=B;C ~ official=0.25 F1=0.40 (26s)
+[26/34] 病例110 gold=G;H pred=C;H ~ official=0.33 F1=0.50 (276s)
+[27/34] 病例226 gold=C;D pred=- ✗ official=0.00 F1=0.00 (331s)
+[28/34] 病例1 gold=A pred=A;C ~ official=0.50 F1=0.67 (106s)
+[29/34] 病例49 gold=C;G pred=A;B;C ~ official=0.25 F1=0.40 (144s)
+[30/34] 病例298 gold=G pred=G;J ~ official=0.50 F1=0.67 (89s)
+[31/34] 病例280 gold=F pred=F;J ~ official=0.50 F1=0.67 (172s)
+[32/34] 病例193 gold=B pred=B;J ~ official=0.50 F1=0.67 (262s)
+[33/34] 病例198 gold=D;E;H pred=F;H ~ official=0.25 F1=0.40 (262s)
+[34/34] 病例101 gold=E pred=H ✗ official=0.00 F1=0.00 (192s)
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 34,
+  "official_score_mean": 0.4765,
+  "exact_match": 0.2647,
+  "hit_rate": 0.7941,
+  "macro_f1": 0.5598,
+  "unparsed": 5,
+  "avg_seconds": 195.6
+}
+[1/34] 病例30 gold=H;J pred=- ✗ official=0.00 F1=0.00 (331s)
+[2/34] 病例350 gold=G;H pred=H ~ official=0.50 F1=0.67 (324s)
+[3/34] 病例46 gold=I pred=I ✓ official=1.00 F1=1.00 (96s)
+[4/34] 病例259 gold=E pred=D;E ~ official=0.50 F1=0.67 (21s)
+[5/34] 病例111 gold=B;E;F pred=A;E;F;I ~ official=0.40 F1=0.57 (137s)
+[6/34] 病例150 gold=E;G;I pred=- ✗ official=0.00 F1=0.00 (313s)
+[7/34] 病例305 gold=G pred=G ✓ official=1.00 F1=1.00 (136s)
+[8/34] 病例225 gold=E;F;I pred=E;I ~ official=0.67 F1=0.80 (179s)
+[9/34] 病例93 gold=B;D pred=B;D;J ~ official=0.67 F1=0.80 (289s)
+[10/34] 病例159 gold=C;D;H pred=C;D;G;H ~ official=0.75 F1=0.86 (106s)
+[11/34] 病例85 gold=B;E;I pred=C;I ~ official=0.25 F1=0.40 (321s)
+[12/34] 病例260 gold=E pred=E ✓ official=1.00 F1=1.00 (84s)
+[13/34] 病例53 gold=B;C pred=- ✗ official=0.00 F1=0.00 (319s)
+[14/34] 病例14 gold=C;D;G;I pred=C;E;G;I ~ official=0.60 F1=0.75 (234s)
+[15/34] 病例269 gold=A;I pred=C;D;I ~ official=0.25 F1=0.40 (199s)
+[16/34] 病例248 gold=D;J pred=- ✗ official=0.00 F1=0.00 (331s)
+[17/34] 病例77 gold=E;J pred=A;J ~ official=0.33 F1=0.50 (277s)
+[18/34] 病例12 gold=A;D;J pred=A;D;H;I;J ~ official=0.60 F1=0.75 (272s)
+[19/34] 病例191 gold=A pred=A ✓ official=1.00 F1=1.00 (178s)
+[20/34] 病例263 gold=C pred=C ✓ official=1.00 F1=1.00 (274s)
+[21/34] 病例128 gold=A;G;H pred=A ~ official=0.33 F1=0.50 (96s)
+[22/34] 病例254 gold=A;C pred=C ~ official=0.50 F1=0.67 (275s)
+[23/34] 病例135 gold=A;C;D;F pred=A;B;D;F;J ~ official=0.50 F1=0.67 (248s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[24/34] 病例346 gold=D;G pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[25/34] 病例26 gold=A;B;H;I;J pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[26/34] 病例110 gold=A;D pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[27/34] 病例226 gold=B;C pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[28/34] 病例1 gold=B;C;J pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[29/34] 病例49 gold=D;E;H pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[30/34] 病例298 gold=I pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[31/34] 病例280 gold=E;H pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[32/34] 病例193 gold=I pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[33/34] 病例198 gold=A;D;E pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[34/34] 病例101 gold=I pred=- ✗ official=0.00 F1=0.00 (1s)
+
+=== 病机任务汇总 ===
+{
+  "task": "病机",
+  "n": 34,
+  "official_score_mean": 0.3485,
+  "exact_match": 0.1471,
+  "hit_rate": 0.5588,
+  "macro_f1": 0.4116,
+  "unparsed": 15,
+  "avg_seconds": 148.5
+}

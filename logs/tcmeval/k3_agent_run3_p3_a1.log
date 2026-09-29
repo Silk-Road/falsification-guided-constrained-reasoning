@@ -1,0 +1,30 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 50  任务: both
+后端: vLLM @ https://api.kimi.com/coding/v1  模型: k3
+智能体就绪
+
+  断点续跑：跳过已完成 50 条
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 50,
+  "official_score_mean": 0.5247,
+  "exact_match": 0.26,
+  "hit_rate": 0.9,
+  "macro_f1": 0.6264,
+  "unparsed": 0,
+  "avg_seconds": 51.7
+}
+  断点续跑：跳过已完成 50 条
+
+=== 病机任务汇总 ===
+{
+  "task": "病机",
+  "n": 50,
+  "official_score_mean": 0.4903,
+  "exact_match": 0.16,
+  "hit_rate": 0.88,
+  "macro_f1": 0.5993,
+  "unparsed": 0,
+  "avg_seconds": 54.8
+}

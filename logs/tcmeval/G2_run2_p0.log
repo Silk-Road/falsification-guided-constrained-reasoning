@@ -1,0 +1,56 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 25  任务: both
+消融组: no_evidence
+后端: vLLM @ http://<VLLM_HOST>:8800/v1  模型: Qwen/Qwen3-4B
+智能体就绪
+
+  断点续跑：跳过已完成 34 条
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 34,
+  "official_score_mean": 0.4632,
+  "exact_match": 0.2941,
+  "hit_rate": 0.7353,
+  "macro_f1": 0.5343,
+  "unparsed": 0,
+  "avg_seconds": 19.7
+}
+
+[1/25] 病例30 gold=H;J pred=H;J ✓ official=1.00 F1=1.00 (36s)
+[2/25] 病例350 gold=G;H pred=E;H ~ official=0.33 F1=0.50 (24s)
+[3/25] 病例46 gold=I pred=I ✓ official=1.00 F1=1.00 (23s)
+[4/25] 病例259 gold=E pred=D ✗ official=0.00 F1=0.00 (18s)
+[5/25] 病例111 gold=B;E;F pred=A ✗ official=0.00 F1=0.00 (23s)
+[6/25] 病例150 gold=E;G;I pred=A ✗ official=0.00 F1=0.00 (20s)
+[7/25] 病例305 gold=G pred=J ✗ official=0.00 F1=0.00 (23s)
+[8/25] 病例225 gold=E;F;I pred=E ~ official=0.33 F1=0.50 (23s)
+[9/25] 病例93 gold=B;D pred=E;H;J ✗ official=0.00 F1=0.00 (30s)
+[10/25] 病例159 gold=C;D;H pred=C;D;E;G;H ~ official=0.60 F1=0.75 (34s)
+[11/25] 病例85 gold=B;E;I pred=I ~ official=0.33 F1=0.50 (26s)
+[12/25] 病例260 gold=E pred=D ✗ official=0.00 F1=0.00 (24s)
+[13/25] 病例53 gold=B;C pred=B;C ✓ official=1.00 F1=1.00 (27s)
+[14/25] 病例14 gold=C;D;G;I pred=C;D;E;F;G;I ~ official=0.67 F1=0.80 (25s)
+[15/25] 病例269 gold=A;I pred=A ~ official=0.50 F1=0.67 (26s)
+[16/25] 病例248 gold=D;J pred=D;G;H ~ official=0.25 F1=0.40 (25s)
+[17/25] 病例77 gold=E;J pred=A ✗ official=0.00 F1=0.00 (21s)
+[18/25] 病例12 gold=A;D;J pred=A ~ official=0.33 F1=0.50 (25s)
+[19/25] 病例191 gold=A pred=A;I;J ~ official=0.33 F1=0.50 (26s)
+[20/25] 病例263 gold=C pred=C;F;J ~ official=0.33 F1=0.50 (28s)
+[21/25] 病例128 gold=A;G;H pred=A;C;G;I ~ official=0.40 F1=0.57 (25s)
+[22/25] 病例254 gold=A;C pred=A;J ~ official=0.33 F1=0.50 (25s)
+[23/25] 病例135 gold=A;C;D;F pred=D;J ~ official=0.20 F1=0.33 (27s)
+[24/25] 病例346 gold=D;G pred=A;G;H ~ official=0.25 F1=0.40 (23s)
+[25/25] 病例26 gold=A;B;H;I;J pred=F ✗ official=0.00 F1=0.00 (20s)
+
+=== 病机任务汇总 ===
+{
+  "task": "病机",
+  "n": 25,
+  "official_score_mean": 0.328,
+  "exact_match": 0.12,
+  "hit_rate": 0.68,
+  "macro_f1": 0.4169,
+  "unparsed": 0,
+  "avg_seconds": 25.0
+}

@@ -1,0 +1,13 @@
+=== qw32 zero run1 17:27:30 ===
+--- qw32 zero run1 done 18:33:52 ---
+=== qw32 agent run1 18:33:52 ===
+--- qw32 agent run1 done 19:47:36 ---
+=== qw32 zero run2 19:47:36 ===
+--- qw32 zero run2 done 21:00:15 ---
+=== qw32 agent run2 21:00:15 ===
+--- qw32 agent run2 done 22:14:22 ---
+=== qw32 zero run3 22:14:22 ===
+--- qw32 zero run3 done 23:26:23 ---
+=== qw32 agent run3 23:26:23 ===
+--- qw32 agent run3 done 00:39:28 ---
+code/run_stream.sh: line 61: tag: unbound variable

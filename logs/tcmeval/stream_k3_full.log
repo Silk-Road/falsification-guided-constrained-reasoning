@@ -1,0 +1,13 @@
+=== k3 zero run1 17:27:30 ===
+--- k3 zero run1 done 19:29:03 ---
+=== k3 agent run1 19:29:03 ===
+--- k3 agent run1 done 19:29:46 ---
+=== k3 zero run2 19:29:46 ===
+--- k3 zero run2 done 21:21:47 ---
+=== k3 agent run2 21:21:47 ===
+--- k3 agent run2 done 22:01:05 ---
+=== k3 zero run3 22:01:05 ===
+--- k3 zero run3 done 22:27:54 ---
+=== k3 agent run3 22:27:54 ===
+--- k3 agent run3 done 22:28:36 ---
+code/run_stream.sh: line 61: tag: unbound variable

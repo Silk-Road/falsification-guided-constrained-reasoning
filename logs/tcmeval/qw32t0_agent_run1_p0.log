@@ -1,0 +1,224 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 50  任务: both
+后端: vLLM @ http://<VLLM_HOST>:8800/v1  模型: Qwen/Qwen3-32B
+智能体就绪
+
+[1/50] 病例30 gold=B;I pred=B;I ✓ official=1.00 F1=1.00 (43s)
+[2/50] 病例350 gold=B pred=G;H ✗ official=0.00 F1=0.00 (35s)
+[3/50] 病例46 gold=F pred=F ✓ official=1.00 F1=1.00 (33s)
+[4/50] 病例259 gold=H pred=H ✓ official=1.00 F1=1.00 (39s)
+[5/50] 病例111 gold=C;F;I pred=B;C;F;I ~ official=0.75 F1=0.86 (50s)
+[6/50] 病例150 gold=H;J pred=G;H;J ~ official=0.67 F1=0.80 (35s)
+[7/50] 病例305 gold=F pred=B;C;F;G ~ official=0.25 F1=0.40 (44s)
+[8/50] 病例225 gold=B pred=B ✓ official=1.00 F1=1.00 (45s)
+[9/50] 病例93 gold=D pred=D ✓ official=1.00 F1=1.00 (35s)
+[10/50] 病例159 gold=H;I pred=A;H;J ~ official=0.25 F1=0.40 (46s)
+[11/50] 病例85 gold=G;H pred=C;E;F;G ~ official=0.20 F1=0.33 (53s)
+[12/50] 病例260 gold=I pred=A ✗ official=0.00 F1=0.00 (38s)
+[13/50] 病例53 gold=E pred=E;G ~ official=0.50 F1=0.67 (50s)
+[14/50] 病例14 gold=B;C pred=B;C;H ~ official=0.67 F1=0.80 (67s)
+[15/50] 病例269 gold=C;G pred=C;E;F;G;J ~ official=0.40 F1=0.57 (66s)
+[16/50] 病例248 gold=J pred=J ✓ official=1.00 F1=1.00 (41s)
+[17/50] 病例77 gold=G;I pred=B;C;D;G;I;J ~ official=0.33 F1=0.50 (41s)
+[18/50] 病例12 gold=C;E;F pred=C ~ official=0.33 F1=0.50 (43s)
+[19/50] 病例191 gold=D pred=D ✓ official=1.00 F1=1.00 (30s)
+[20/50] 病例263 gold=I pred=I ✓ official=1.00 F1=1.00 (41s)
+[21/50] 病例128 gold=A;B pred=B;F;H;I;J ~ official=0.17 F1=0.29 (40s)
+[22/50] 病例254 gold=A pred=A;B;F;I ~ official=0.25 F1=0.40 (36s)
+[23/50] 病例135 gold=G pred=E;G;I ~ official=0.33 F1=0.50 (42s)
+[24/50] 病例346 gold=H pred=B;H ~ official=0.50 F1=0.67 (56s)
+[25/50] 病例26 gold=C;E;G pred=C ~ official=0.33 F1=0.50 (57s)
+[26/50] 病例110 gold=G;H pred=A;H ~ official=0.33 F1=0.50 (54s)
+[27/50] 病例226 gold=C;D pred=C;E ~ official=0.33 F1=0.50 (45s)
+[28/50] 病例1 gold=A pred=A;C;E;J ~ official=0.25 F1=0.40 (35s)
+[29/50] 病例49 gold=C;G pred=B;C ~ official=0.33 F1=0.50 (41s)
+[30/50] 病例298 gold=G pred=G ✓ official=1.00 F1=1.00 (41s)
+[31/50] 病例280 gold=F pred=F ✓ official=1.00 F1=1.00 (30s)
+[32/50] 病例193 gold=B pred=G ✗ official=0.00 F1=0.00 (46s)
+[33/50] 病例198 gold=D;E;H pred=F;H ~ official=0.25 F1=0.40 (36s)
+[34/50] 病例101 gold=E pred=H ✗ official=0.00 F1=0.00 (36s)
+[35/50] 病例28 gold=G pred=D;E;F;G ~ official=0.25 F1=0.40 (37s)
+[36/50] 病例257 gold=D;F pred=A;C;D;I;J ~ official=0.17 F1=0.29 (46s)
+[37/50] 病例192 gold=A;B pred=B ~ official=0.50 F1=0.67 (42s)
+[38/50] 病例233 gold=I pred=E;I;J ~ official=0.33 F1=0.50 (37s)
+[39/50] 病例214 gold=A;B pred=A;B;D;E;H ~ official=0.40 F1=0.57 (51s)
+[40/50] 病例61 gold=A;D;E;J pred=E;J ~ official=0.50 F1=0.67 (34s)
+[41/50] 病例166 gold=J pred=B;C;D;E;I;J ~ official=0.17 F1=0.29 (40s)
+[42/50] 病例132 gold=H pred=H ✓ official=1.00 F1=1.00 (34s)
+[43/50] 病例19 gold=F;J pred=I;J ~ official=0.33 F1=0.50 (45s)
+[44/50] 病例162 gold=D;G;I pred=B;C;G ~ official=0.20 F1=0.33 (44s)
+[45/50] 病例15 gold=A;G pred=A;G;H;J ~ official=0.50 F1=0.67 (54s)
+[46/50] 病例37 gold=A;F;I pred=A;E;F;G;H;I ~ official=0.50 F1=0.67 (49s)
+[47/50] 病例235 gold=D pred=B;D ~ official=0.50 F1=0.67 (33s)
+[48/50] 病例347 gold=B pred=B ✓ official=1.00 F1=1.00 (32s)
+[49/50] 病例39 gold=I pred=E;H;I ~ official=0.33 F1=0.50 (43s)
+[50/50] 病例65 gold=G;H pred=B ✗ official=0.00 F1=0.00 (37s)
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 50,
+  "official_score_mean": 0.4823,
+  "exact_match": 0.24,
+  "hit_rate": 0.9,
+  "macro_f1": 0.5838,
+  "unparsed": 0,
+  "avg_seconds": 42.6
+}
+[1/50] 病例30 gold=H;J pred=B;D;H;J ~ official=0.50 F1=0.67 (50s)
+[2/50] 病例350 gold=G;H pred=H ~ official=0.50 F1=0.67 (45s)
+[3/50] 病例46 gold=I pred=D ✗ official=0.00 F1=0.00 (33s)
+[4/50] 病例259 gold=E pred=D ✗ official=0.00 F1=0.00 (25s)
+[5/50] 病例111 gold=B;E;F pred=A;D;E;F;I ~ official=0.33 F1=0.50 (52s)
+[6/50] 病例150 gold=E;G;I pred=E;I ~ official=0.67 F1=0.80 (38s)
+[7/50] 病例305 gold=G pred=G;H;J ~ official=0.33 F1=0.50 (41s)
+[8/50] 病例225 gold=E;F;I pred=E ~ official=0.33 F1=0.50 (35s)
+[9/50] 病例93 gold=B;D pred=B;D ✓ official=1.00 F1=1.00 (35s)
+[10/50] 病例159 gold=C;D;H pred=H ~ official=0.33 F1=0.50 (39s)
+[11/50] 病例85 gold=B;E;I pred=B;C;D;G;I ~ official=0.33 F1=0.50 (56s)
+[12/50] 病例260 gold=E pred=D ✗ official=0.00 F1=0.00 (37s)
+[13/50] 病例53 gold=B;C pred=B;C ✓ official=1.00 F1=1.00 (43s)
+[14/50] 病例14 gold=C;D;G;I pred=G ~ official=0.25 F1=0.40 (44s)
+[15/50] 病例269 gold=A;I pred=I ~ official=0.50 F1=0.67 (31s)
+[16/50] 病例248 gold=D;J pred=H;J ~ official=0.33 F1=0.50 (45s)
+[17/50] 病例77 gold=E;J pred=A;B;E;G;J ~ official=0.40 F1=0.57 (45s)
+[18/50] 病例12 gold=A;D;J pred=A;D;H;I;J ~ official=0.60 F1=0.75 (51s)
+[19/50] 病例191 gold=A pred=A;G;J ~ official=0.33 F1=0.50 (32s)
+[20/50] 病例263 gold=C pred=B;C;F;J ~ official=0.25 F1=0.40 (36s)
+[21/50] 病例128 gold=A;G;H pred=A ~ official=0.33 F1=0.50 (27s)
+[22/50] 病例254 gold=A;C pred=A;D;H;I;J ~ official=0.17 F1=0.29 (40s)
+[23/50] 病例135 gold=A;C;D;F pred=D ~ official=0.25 F1=0.40 (36s)
+[24/50] 病例346 gold=D;G pred=A;D;G;H ~ official=0.50 F1=0.67 (46s)
+[25/50] 病例26 gold=A;B;H;I;J pred=A;B;D;F;J ~ official=0.43 F1=0.60 (49s)
+[26/50] 病例110 gold=A;D pred=D ~ official=0.50 F1=0.67 (37s)
+vLLM confidence inference failed (Connection error.), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[27/50] 病例226 gold=B;C pred=- ✗ official=0.00 F1=0.00 (3673s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[28/50] 病例1 gold=B;C;J pred=- ✗ official=0.00 F1=0.00 (49s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[29/50] 病例49 gold=D;E;H pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[30/50] 病例298 gold=I pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[31/50] 病例280 gold=E;H pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[32/50] 病例193 gold=I pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[33/50] 病例198 gold=A;D;E pred=- ✗ official=0.00 F1=0.00 (47s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[34/50] 病例101 gold=I pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[35/50] 病例28 gold=B;I pred=- ✗ official=0.00 F1=0.00 (47s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[36/50] 病例257 gold=B;D pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[37/50] 病例192 gold=C;D pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[38/50] 病例233 gold=E pred=- ✗ official=0.00 F1=0.00 (47s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[39/50] 病例214 gold=E;G pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[40/50] 病例61 gold=G;I;J pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[41/50] 病例166 gold=C;F;G;H pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[42/50] 病例132 gold=B;C;H pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[43/50] 病例19 gold=C;D;F pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[44/50] 病例162 gold=A;B;I pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[45/50] 病例15 gold=A;B;J pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[46/50] 病例37 gold=C;E;F;I pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[47/50] 病例235 gold=D;I pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[48/50] 病例347 gold=D;G pred=- ✗ official=0.00 F1=0.00 (47s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[49/50] 病例39 gold=A;D;J pred=- ✗ official=0.00 F1=0.00 (46s)
+vLLM confidence inference failed (Error code: 503), falling back to heuristic
+vLLM generate failed: Error code: 503
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[50/50] 病例65 gold=G;I pred=- ✗ official=0.00 F1=0.00 (46s)
+
+=== 病机任务汇总 ===
+{
+  "task": "病机",
+  "n": 50,
+  "official_score_mean": 0.2036,
+  "exact_match": 0.04,
+  "hit_rate": 0.46,
+  "macro_f1": 0.2708,
+  "unparsed": 24,
+  "avg_seconds": 115.7
+}

@@ -1,0 +1,10 @@
+{
+  "task": "病机",
+  "model": "k3",
+  "n": 50,
+  "official_score_mean": 0.6097,
+  "exact_match": 0.32,
+  "hit_rate": 0.92,
+  "macro_f1": 0.7018,
+  "avg_seconds": 97.1
+}

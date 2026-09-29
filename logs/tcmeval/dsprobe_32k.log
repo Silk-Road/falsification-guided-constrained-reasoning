@@ -1,0 +1,19 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 3  任务: syndrome
+后端: vLLM @ https://api.deepseek.com/v1  模型: deepseek-v4-flash
+智能体就绪
+
+[1/3] 病例30 gold=B;I pred=B;I ✓ official=1.00 F1=1.00 (18s)
+[2/3] 病例350 gold=B pred=B;C;G;H;I ~ official=0.20 F1=0.33 (23s)
+[3/3] 病例46 gold=F pred=F ✓ official=1.00 F1=1.00 (69s)
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 3,
+  "official_score_mean": 0.7333,
+  "exact_match": 0.6667,
+  "hit_rate": 1.0,
+  "macro_f1": 0.7778,
+  "unparsed": 0,
+  "avg_seconds": 36.8
+}

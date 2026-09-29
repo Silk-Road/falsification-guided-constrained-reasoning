@@ -1,0 +1,10 @@
+{
+  "task": "病机",
+  "n": 50,
+  "official_score_mean": 0.3167,
+  "exact_match": 0.04,
+  "hit_rate": 0.72,
+  "macro_f1": 0.4287,
+  "unparsed": 0,
+  "avg_seconds": 14.8
+}

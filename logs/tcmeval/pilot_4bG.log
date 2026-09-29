@@ -1,0 +1,33 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 1  任务: syndrome
+后端: 本地 Transformers  模型: ~/Documents/Kimi/Qwen3-4B
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]
+Loading weights:   0%|          | 1/398 [00:00<04:31,  1.46it/s]
+Loading weights:  33%|███▎      | 132/398 [00:00<00:01, 225.99it/s]
+Loading weights:  52%|█████▏    | 207/398 [00:01<00:00, 201.95it/s]
+Loading weights:  64%|██████▍   | 256/398 [00:01<00:00, 185.89it/s]
+Loading weights:  73%|███████▎  | 292/398 [00:01<00:00, 186.38it/s]
+Loading weights:  81%|████████  | 322/398 [00:01<00:00, 178.38it/s]
+Loading weights:  87%|████████▋ | 347/398 [00:02<00:00, 181.70it/s]
+Loading weights:  93%|█████████▎| 371/398 [00:02<00:00, 184.94it/s]
+Loading weights:  99%|█████████▉| 394/398 [00:02<00:00, 190.61it/s]
+Loading weights: 100%|██████████| 398/398 [00:02<00:00, 175.68it/s]
+智能体就绪
+
+[transformers] The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+
+[1/1] 病例30 gold=B;I pred=B ~ official=0.50 F1=0.67 (1236s)
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 1,
+  "official_score_mean": 0.5,
+  "exact_match": 0.0,
+  "hit_rate": 1.0,
+  "macro_f1": 0.6667,
+  "unparsed": 0,
+  "avg_seconds": 1235.6
+}

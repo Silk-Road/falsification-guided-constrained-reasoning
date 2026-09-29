@@ -1,0 +1,10 @@
+{
+  "task": "病机",
+  "model": "deepseek-v4-flash",
+  "n": 50,
+  "official_score_mean": 0.233,
+  "exact_match": 0.14,
+  "hit_rate": 0.34,
+  "macro_f1": 0.2648,
+  "avg_seconds": 67.4
+}

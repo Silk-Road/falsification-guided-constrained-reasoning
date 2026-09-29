@@ -1,0 +1,104 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 30  任务: both
+后端: vLLM @ https://api.deepseek.com/v1  模型: deepseek-v4-flash
+智能体就绪
+
+[1/30] 病例308 gold=F pred=F ✓ official=1.00 F1=1.00 (297s)
+[2/30] 病例50 gold=C;G pred=B;G ~ official=0.33 F1=0.50 (134s)
+[3/30] 病例109 gold=I pred=I ✓ official=1.00 F1=1.00 (84s)
+[4/30] 病例69 gold=J pred=E;J ~ official=0.50 F1=0.67 (226s)
+[5/30] 病例100 gold=C;G pred=- ✗ official=0.00 F1=0.00 (338s)
+[6/30] 病例230 gold=B;J pred=B;J ✓ official=1.00 F1=1.00 (128s)
+[7/30] 病例220 gold=A;I pred=A;C;J ~ official=0.25 F1=0.40 (102s)
+[8/30] 病例113 gold=F;J pred=E;F;I;J ~ official=0.50 F1=0.67 (216s)
+[9/30] 病例273 gold=E;H pred=- ✗ official=0.00 F1=0.00 (17s)
+[10/30] 病例238 gold=I pred=A;I ~ official=0.50 F1=0.67 (57s)
+[11/30] 病例195 gold=H pred=I ✗ official=0.00 F1=0.00 (204s)
+[12/30] 病例42 gold=D;I pred=J ✗ official=0.00 F1=0.00 (247s)
+[13/30] 病例117 gold=I pred=J ✗ official=0.00 F1=0.00 (208s)
+[14/30] 病例66 gold=H;J pred=D;J ~ official=0.33 F1=0.50 (158s)
+[15/30] 病例84 gold=E;H pred=I ✗ official=0.00 F1=0.00 (263s)
+[16/30] 病例312 gold=B;D pred=B ~ official=0.50 F1=0.67 (203s)
+[17/30] 病例160 gold=B;I pred=C;I ~ official=0.33 F1=0.50 (23s)
+[18/30] 病例4 gold=E;F pred=E;I ~ official=0.33 F1=0.50 (150s)
+[19/30] 病例148 gold=H pred=H ✓ official=1.00 F1=1.00 (143s)
+[20/30] 病例143 gold=F pred=F ✓ official=1.00 F1=1.00 (337s)
+[21/30] 病例20 gold=A;C;G pred=A;C ~ official=0.67 F1=0.80 (247s)
+[22/30] 病例307 gold=E pred=E ✓ official=1.00 F1=1.00 (282s)
+[23/30] 病例268 gold=B;J pred=J ~ official=0.50 F1=0.67 (83s)
+[24/30] 病例302 gold=D pred=- ✗ official=0.00 F1=0.00 (308s)
+[25/30] 病例152 gold=D pred=D ✓ official=1.00 F1=1.00 (51s)
+[26/30] 病例157 gold=B;H pred=- ✗ official=0.00 F1=0.00 (339s)
+[27/30] 病例227 gold=A;J pred=B;C;D;F;G ✗ official=0.00 F1=0.00 (309s)
+[28/30] 病例299 gold=E pred=B;E ~ official=0.50 F1=0.67 (67s)
+[29/30] 病例112 gold=G pred=G ✓ official=1.00 F1=1.00 (143s)
+[30/30] 病例75 gold=C;D;E pred=C ~ official=0.33 F1=0.50 (134s)
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 30,
+  "official_score_mean": 0.4528,
+  "exact_match": 0.2667,
+  "hit_rate": 0.7,
+  "macro_f1": 0.5233,
+  "unparsed": 4,
+  "avg_seconds": 183.3
+}
+[1/30] 病例308 gold=D pred=A;B;D;G ~ official=0.25 F1=0.40 (284s)
+[2/30] 病例50 gold=I;J pred=E;G;H;I;J ~ official=0.40 F1=0.57 (229s)
+[3/30] 病例109 gold=I;J pred=I ~ official=0.50 F1=0.67 (188s)
+[4/30] 病例69 gold=C;D;I pred=D ~ official=0.33 F1=0.50 (14s)
+[5/30] 病例100 gold=A;B;J pred=- ✗ official=0.00 F1=0.00 (333s)
+[6/30] 病例230 gold=H;I pred=I ~ official=0.50 F1=0.67 (194s)
+[7/30] 病例220 gold=A;G pred=A;G ✓ official=1.00 F1=1.00 (167s)
+[8/30] 病例113 gold=B;F pred=- ✗ official=0.00 F1=0.00 (348s)
+[9/30] 病例273 gold=B;D pred=B;F ~ official=0.33 F1=0.50 (261s)
+[10/30] 病例238 gold=E;J pred=E ~ official=0.50 F1=0.67 (205s)
+[11/30] 病例195 gold=E pred=E ✓ official=1.00 F1=1.00 (228s)
+[12/30] 病例42 gold=H;J pred=- ✗ official=0.00 F1=0.00 (309s)
+[13/30] 病例117 gold=G pred=A;B;G;I ~ official=0.25 F1=0.40 (213s)
+[14/30] 病例66 gold=D;G;I pred=D;F;G;I ~ official=0.75 F1=0.86 (142s)
+[15/30] 病例84 gold=H;J pred=- ✗ official=0.00 F1=0.00 (324s)
+[16/30] 病例312 gold=H;I pred=I ~ official=0.50 F1=0.67 (292s)
+[17/30] 病例160 gold=C;G;H pred=G ~ official=0.33 F1=0.50 (269s)
+[18/30] 病例4 gold=C;D;F;G;I;J pred=- ✗ official=0.00 F1=0.00 (355s)
+[19/30] 病例148 gold=A;D;F pred=D;F ~ official=0.67 F1=0.80 (198s)
+[20/30] 病例143 gold=H;J pred=G;J ~ official=0.33 F1=0.50 (240s)
+[21/30] 病例20 gold=C;D;E pred=C ~ official=0.33 F1=0.50 (248s)
+[22/30] 病例307 gold=F pred=F ✓ official=1.00 F1=1.00 (195s)
+[23/30] 病例268 gold=A;C pred=C ~ official=0.50 F1=0.67 (279s)
+[24/30] 病例302 gold=A;G pred=- ✗ official=0.00 F1=0.00 (319s)
+[25/30] 病例152 gold=B pred=B ✓ official=1.00 F1=1.00 (101s)
+[26/30] 病例157 gold=A;C;F;I pred=A;F;I ~ official=0.75 F1=0.86 (207s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[27/30] 病例227 gold=G;J pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[28/30] 病例299 gold=E pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[29/30] 病例112 gold=B;F pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[30/30] 病例75 gold=A;J pred=- ✗ official=0.00 F1=0.00 (1s)
+
+=== 病机任务汇总 ===
+{
+  "task": "病机",
+  "n": 30,
+  "official_score_mean": 0.3744,
+  "exact_match": 0.1333,
+  "hit_rate": 0.6667,
+  "macro_f1": 0.4573,
+  "unparsed": 10,
+  "avg_seconds": 204.9
+}

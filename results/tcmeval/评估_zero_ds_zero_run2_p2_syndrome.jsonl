@@ -1,0 +1,50 @@
+{"id": "病例25", "gold": ["E", "H"], "pred": ["E", "H"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 54.2, "response_tail": "辨证属肝胆湿热蕴结，阻滞气机，不通则痛；同时又见舌边青紫、脉弦等肝郁血滞之象。其余选项均无相应典型依据。\n\n答案：E;H"}
+{"id": "病例174", "gold": ["E", "J"], "pred": ["J"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 29.3, "response_tail": "本病由引产大出血所致，以血虚为本，兼阳气不足、寒凝经脉。四肢麻木、指趾抽掣转筋为血虚不养筋脉；形寒畏冷、手足尤甚、得热汤浸泡暂减，为阳虚寒凝、血行涩滞；夜卧汗出为阴血亏耗、营卫不和；苔白脉细为血虚阳虚之象。辨证属“血痹证”。\n\n答案：J"}
+{"id": "病例107", "gold": ["I"], "pred": ["I"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 46.9, "response_tail": "本病例以声音嘶哑、咽喉干燥为主症，加之说话过多耗伤肺阴；55岁女性，肾阴本虚，肺肾阴亏不能濡润咽喉，故声嘶、咽干。舌红、少苔、脉细数均为阴虚内热之象；睡眠不宁为阴虚虚火扰神所致。  \n辨证属肺肾阴亏，其他证型依据不足。\n\n答案：I"}
+{"id": "病例134", "gold": ["C"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 74.8, "response_tail": ""}
+{"id": "病例186", "gold": ["A", "B"], "pred": ["A", "B"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 72.9, "response_tail": "患者眩晕突发，视物旋转、耳鸣、恶心呕吐、烦躁失眠、畏光恶声、脉弦，属肝风上扰；同时口干口苦、舌尖红为上热，畏寒怯冷、大便稀溏、尺弱为下寒，故属上热下寒。其余选项无明确瘀血、外感、湿热带下等证据。\n\n答案：A;B"}
+{"id": "病例35", "gold": ["D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 85.2, "response_tail": ""}
+{"id": "病例251", "gold": ["D", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.5, "response_tail": ""}
+{"id": "病例208", "gold": ["C", "J"], "pred": ["C", "J"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 22.0, "response_tail": "患儿高热、神志不清、烦躁不宁，为热邪内陷心包、心神被扰所致；肢体抽动、舞蹈样动作、肢体瘫痪，属热极生风、肝风内动；舌红苔黄、脉细数，亦为热盛伤阴之象。二便失禁系神昏、风动、神机失司所致，非虚脱或脾肾亏虚。  \n综合分析，辨证为邪陷心包、肝风内动。\n\n答案：C;J"}
+{"id": "病例158", "gold": ["G", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 77.2, "response_tail": ""}
+{"id": "病例185", "gold": ["B", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 77.9, "response_tail": ""}
+{"id": "病例188", "gold": ["F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 85.6, "response_tail": ""}
+{"id": "病例47", "gold": ["I", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 84.4, "response_tail": ""}
+{"id": "病例205", "gold": ["E"], "pred": ["E", "G"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 34.6, "response_tail": "本病例以吐唾液为主症，“涎为脾之液”，久病纳差、消瘦、面色苍白，乃脾虚失运、气血不足之象；虫斑、白睛蓝点、脐周痛、磨牙为肠寄生虫征象。虫积日久损伤脾胃，脾虚不运则生湿；舌略红、脉滑微数，显示湿郁化热，故属脾虚生湿、湿热内蕴。\n\n答案：E;G"}
+{"id": "病例175", "gold": ["B", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 83.5, "response_tail": ""}
+{"id": "病例264", "gold": ["C", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.6, "response_tail": ""}
+{"id": "病例153", "gold": ["H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 77.2, "response_tail": ""}
+{"id": "病例223", "gold": ["B", "C"], "pred": ["C"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 10.4, "response_tail": "本例以月经量多、经期紊乱、反复出血为主，伴神疲、头晕、心慌、下肢浮肿，舌质胖淡、脉细数而弱，符合脾气虚弱、统摄无权所致的“脾失统摄”。气血亏耗则头晕、心慌、面黄白；脾虚水湿不运则下肢浮肿；舌胖淡、脉弱为气虚血亏之象。\n\n答案：C"}
+{"id": "病例51", "gold": ["H"], "pred": ["H"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 53.9, "response_tail": "本例患者素有哮喘，久病肺气受损，痰浊伏留于肺；旅途劳顿或气候变动引动伏痰，肺失宣降，故见喘息痰鸣、狂嚏。苔薄白、脉弦滑，亦属痰饮伏肺、气机不利之象。未见肠滑、疫毒、血瘀、水邪凌心、肝风升扰等明确征象。\n\n答案：H"}
+{"id": "病例231", "gold": ["G", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 80.6, "response_tail": ""}
+{"id": "病例171", "gold": ["A", "F", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 84.8, "response_tail": ""}
+{"id": "病例58", "gold": ["B", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 89.3, "response_tail": ""}
+{"id": "病例82", "gold": ["E", "G"], "pred": ["E", "G"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 19.7, "response_tail": "本病属中医“中风”范畴，为出血性中风后遗。脑络出血，离经之血即为瘀血，瘀血阻滞清窍及经络，故见头痛项强、半身不遂；年逾五旬，肝肾阴亏，水不涵木，风阳上扰，故眩晕、不能张目、脉弦细数、舌红苔薄黄。湿、痰、脾、肠胃、暑热等征象不显，故不取。\n\n答案：E;G"}
+{"id": "病例258", "gold": ["B", "J"], "pred": ["A", "B", "J"], "official": 0.6667, "f1": 0.8, "hit": true, "exact": false, "elapsed_s": 43.5, "response_tail": "患者眩晕与体位相关，伴恶心、呕吐、食欲欠佳、大便溏薄，舌胖苔润，脉滑，为脾虚失运、痰湿内停之象；痰湿上蒙清窍则发为眩晕、耳鸣。舌质偏红非主证，苔少而润非阴虚；曾服补肾药百余剂无效，说明非肾虚下元不固。无血瘀、肺系、气阴亏虚等证据。\n\n答案：A;B;J"}
+{"id": "病例197", "gold": ["A"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 86.3, "response_tail": ""}
+{"id": "病例293", "gold": ["A", "C"], "pred": ["A", "C"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 31.4, "response_tail": "本例属中医“湿温”病，病程日久，湿热之邪化燥入营血。舌光红、尖起刺为热盛伤阴之征；大便黑色、脉弦数、腹胀痛为热邪迫血妄行，灼伤血络所致；治以育阴清热、生津止血，正合“湿热化燥，伤阴动血”之病机。气阴不足虽有部分见症，但非当前主要证型。\n\n答案：A;C"}
+{"id": "病例154", "gold": ["F", "J"], "pred": ["F", "J"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 28.9, "response_tail": "本病例表现为眩晕不已、少腹胀满、带下频频，伴纳差呃逆，脉细数，舌光苔薄。综合看属肝肾阴血亏耗、肝失疏泄、带脉失固，兼胃气不和、脾失健运。故辨证为肝肾同病、脾胃不和。  \n答案：F;J"}
+{"id": "病例219", "gold": ["A", "F", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 69.9, "response_tail": ""}
+{"id": "病例167", "gold": ["C", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.1, "response_tail": ""}
+{"id": "病例199", "gold": ["A"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 86.0, "response_tail": ""}
+{"id": "病例228", "gold": ["F", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 88.3, "response_tail": ""}
+{"id": "病例97", "gold": ["D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 87.2, "response_tail": ""}
+{"id": "病例161", "gold": ["A", "F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 87.6, "response_tail": ""}
+{"id": "病例59", "gold": ["H", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 88.9, "response_tail": ""}
+{"id": "病例155", "gold": ["B", "H"], "pred": ["A", "B"], "official": 0.3333, "f1": 0.5, "hit": true, "exact": false, "elapsed_s": 48.0, "response_tail": "病例表现为咯血伴咳、痰中带血或纯血鲜红，舌红、脉滑数，为痰热内蕴于肺，热伤肺络所致；口渴欲饮、舌有裂纹，又为热邪耗伤阴液之象。因此辨证为“痰热内蕴”兼“热伤阴液”。\n\n答案：B;A"}
+{"id": "病例7", "gold": ["B", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 78.4, "response_tail": ""}
+{"id": "病例316", "gold": ["G"], "pred": ["G"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 28.8, "response_tail": "本证以消瘦、纳少、舌淡脉弱为脾阳不足之象；脾虚生痰，遇寒加重则咳嗽、稀痰；痰饮上凌心胸则心悸、气短、胸闷。未见湿热、热毒、肝风、阴虚阳亢等表现。\n\n答案：G"}
+{"id": "病例282", "gold": ["D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 81.4, "response_tail": ""}
+{"id": "病例133", "gold": ["I", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 80.4, "response_tail": ""}
+{"id": "病例41", "gold": ["D", "E"], "pred": ["D", "E", "J"], "official": 0.6667, "f1": 0.8, "hit": true, "exact": false, "elapsed_s": 50.5, "response_tail": "本案为慢性乳糜血尿急性发作，症见小便浑浊、蛋白尿、血尿、脓尿，结合脉沉细缓、苔薄白，辨证属脾肾不足，精微不固；同时尿中见脓细胞、红细胞，湿热浊邪下注膀胱，属本虚标实之证。\n\n答案：D;E;J"}
+{"id": "病例86", "gold": ["D"], "pred": ["D"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 26.0, "response_tail": "本例为情志不遂，气郁化火、炼液成痰，痰热内扰心神所致。表现为心烦急躁、目赤头痛、不眠不食、自言自语、哭笑无常，属痰热扰神；口干喜饮、大便秘结、舌红苔黄、脉滑数，均为痰郁化热之象。故选痰郁化热。\n\n答案：D"}
+{"id": "病例286", "gold": ["F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 86.7, "response_tail": ""}
+{"id": "病例156", "gold": ["D", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.1, "response_tail": ""}
+{"id": "病例202", "gold": ["B", "I"], "pred": ["B", "I"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 42.1, "response_tail": "本例为水饮内停所致“顿咳”：咳嗽剧烈、呕吐痰涎，面色浮亮晦暗、苔白腻、脉滑、指纹青粗，均为痰浊饮邪内停之象；病位涉及肺与脾，肺失宣降则咳，脾失运化则饮停。无痰热、肝风、瘀血、气阴两虚之象。\n\n答案：B;I"}
+{"id": "病例313", "gold": ["C"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 83.0, "response_tail": ""}
+{"id": "病例104", "gold": ["A", "F"], "pred": ["A", "F"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 29.9, "response_tail": "本例表现为脾肾亏虚兼气血不足之象：肾虚则耳鸣、听力下降、尿频遗尿、脱发；脾虚则纳差、睡中流涎；面色苍白、舌淡、脉细弱为气血不足；无痰火、湿热、郁热、血瘀等实证表现。\n\n答案：A;F"}
+{"id": "病例8", "gold": ["H", "I", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 82.6, "response_tail": ""}
+{"id": "病例6", "gold": ["F", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.2, "response_tail": ""}
+{"id": "病例211", "gold": ["A"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 83.0, "response_tail": ""}
+{"id": "病例245", "gold": ["G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 86.1, "response_tail": ""}
+{"id": "病例103", "gold": ["I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 92.2, "response_tail": ""}

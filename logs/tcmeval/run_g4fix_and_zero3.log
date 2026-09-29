@@ -1,0 +1,13 @@
+=== phase 1: G4fix (no_skill -> ablation_no_skill_knowledge) ===
+--- G4fix run1 done 00:24 ---
+--- G4fix run2 done 00:42 ---
+--- G4fix run3 done 01:00 ---
+=== phase 2: 4B zero-shot vLLM x3 ===
+--- zero run1 done 01:38 ---
+--- zero run2 done 02:08 ---
+code/run_g4fix_and_zero3.sh: line 33: 34629 Terminated: 15          python3 -u "$CODE/eval_zeroshot.py" --task both --start "$s" --end "$e" --tag "qwen4bGvllm_zero_run${r}_p${p}" --outdir "$RES" > "$LOGS/qwen4bGvllm_zero_run${r}_p${p}.log" 2>&1
+code/run_g4fix_and_zero3.sh: line 33: 34630 Terminated: 15          python3 -u "$CODE/eval_zeroshot.py" --task both --start "$s" --end "$e" --tag "qwen4bGvllm_zero_run${r}_p${p}" --outdir "$RES" > "$LOGS/qwen4bGvllm_zero_run${r}_p${p}.log" 2>&1
+code/run_g4fix_and_zero3.sh: line 33: 34631 Terminated: 15          python3 -u "$CODE/eval_zeroshot.py" --task both --start "$s" --end "$e" --tag "qwen4bGvllm_zero_run${r}_p${p}" --outdir "$RES" > "$LOGS/qwen4bGvllm_zero_run${r}_p${p}.log" 2>&1
+code/run_g4fix_and_zero3.sh: line 33: 34632 Terminated: 15          python3 -u "$CODE/eval_zeroshot.py" --task both --start "$s" --end "$e" --tag "qwen4bGvllm_zero_run${r}_p${p}" --outdir "$RES" > "$LOGS/qwen4bGvllm_zero_run${r}_p${p}.log" 2>&1
+--- zero run3 done 02:33 ---
+BATCH_G4FIX_ZERO_ALL_DONE

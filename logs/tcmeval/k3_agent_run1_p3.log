@@ -1,0 +1,529 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 50  任务: both
+后端: vLLM @ https://api.kimi.com/coding/v1  模型: k3
+智能体就绪
+
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+
+[1/50] 病例9 gold=J pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[2/50] 病例129 gold=C;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[3/50] 病例241 gold=D;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[4/50] 病例178 gold=E;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[5/50] 病例146 gold=B;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[6/50] 病例138 gold=B;C pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[7/50] 病例151 gold=D;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[8/50] 病例114 gold=B;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[9/50] 病例105 gold=A;D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[10/50] 病例91 gold=B;E pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[11/50] 病例196 gold=C;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[12/50] 病例88 gold=H pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[13/50] 病例272 gold=A;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[14/50] 病例236 gold=A;D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[15/50] 病例72 gold=D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[16/50] 病例250 gold=B pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[17/50] 病例204 gold=H;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[18/50] 病例222 gold=B;C pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[19/50] 病例210 gold=C;E;F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[20/50] 病例267 gold=F;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[21/50] 病例308 gold=F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[22/50] 病例50 gold=C;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[23/50] 病例109 gold=I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[24/50] 病例69 gold=J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[25/50] 病例100 gold=C;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[26/50] 病例230 gold=B;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[27/50] 病例220 gold=A;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[28/50] 病例113 gold=F;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[29/50] 病例273 gold=E;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[30/50] 病例238 gold=I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[31/50] 病例195 gold=H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[32/50] 病例42 gold=D;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[33/50] 病例117 gold=I pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[34/50] 病例66 gold=H;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[35/50] 病例84 gold=E;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[36/50] 病例312 gold=B;D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[37/50] 病例160 gold=B;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[38/50] 病例4 gold=E;F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[39/50] 病例148 gold=H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[40/50] 病例143 gold=F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[41/50] 病例20 gold=A;C;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[42/50] 病例307 gold=E pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[43/50] 病例268 gold=B;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[44/50] 病例302 gold=D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[45/50] 病例152 gold=D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[46/50] 病例157 gold=B;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[47/50] 病例227 gold=A;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[48/50] 病例299 gold=E pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[49/50] 病例112 gold=G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[50/50] 病例75 gold=C;D;E pred=- ✗ official=0.00 F1=0.00 (1s)
+
+=== 证型任务汇总 ===
+{
+  "task": "证型",
+  "n": 50,
+  "official_score_mean": 0.0,
+  "exact_match": 0.0,
+  "hit_rate": 0.0,
+  "macro_f1": 0.0,
+  "unparsed": 50,
+  "avg_seconds": 0.4
+}
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[1/50] 病例9 gold=A;C;F;G;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[2/50] 病例129 gold=C;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[3/50] 病例241 gold=A;J pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[4/50] 病例178 gold=A;B pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[5/50] 病例146 gold=C;F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[6/50] 病例138 gold=C;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[7/50] 病例151 gold=A;E;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[8/50] 病例114 gold=B;G;I pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[9/50] 病例105 gold=B;C;E;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[10/50] 病例91 gold=A;I;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[11/50] 病例196 gold=C;E;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[12/50] 病例88 gold=F;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[13/50] 病例272 gold=C;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[14/50] 病例236 gold=H;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[15/50] 病例72 gold=A;B;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[16/50] 病例250 gold=H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[17/50] 病例204 gold=B;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[18/50] 病例222 gold=H;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[19/50] 病例210 gold=B;C;D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[20/50] 病例267 gold=B;E;F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[21/50] 病例308 gold=D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[22/50] 病例50 gold=I;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[23/50] 病例109 gold=I;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[24/50] 病例69 gold=C;D;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[25/50] 病例100 gold=A;B;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[26/50] 病例230 gold=H;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[27/50] 病例220 gold=A;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[28/50] 病例113 gold=B;F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[29/50] 病例273 gold=B;D pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[30/50] 病例238 gold=E;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[31/50] 病例195 gold=E pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[32/50] 病例42 gold=H;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[33/50] 病例117 gold=G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[34/50] 病例66 gold=D;G;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[35/50] 病例84 gold=H;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[36/50] 病例312 gold=H;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[37/50] 病例160 gold=C;G;H pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[38/50] 病例4 gold=C;D;F;G;I;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[39/50] 病例148 gold=A;D;F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[40/50] 病例143 gold=H;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[41/50] 病例20 gold=C;D;E pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[42/50] 病例307 gold=F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[43/50] 病例268 gold=A;C pred=- ✗ official=0.00 F1=0.00 (1s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[44/50] 病例302 gold=A;G pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[45/50] 病例152 gold=B pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[46/50] 病例157 gold=A;C;F;I pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[47/50] 病例227 gold=G;J pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[48/50] 病例299 gold=E pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[49/50] 病例112 gold=B;F pred=- ✗ official=0.00 F1=0.00 (0s)
+vLLM confidence inference failed (Error code: 400 - {'error': {'message': 'Your request body contains invalid value for param logprobs', 'type': 'invalid_request_error'}}), falling back to heuristic
+vLLM generate failed: Error code: 403 - {'error': {'message': "You've reached your 5-hour usage limit. Your quota will reset when the current 5-hour window ends. To continue now, purchase extra usage or upgrade your plan: https://www.kimi.com/membership/subscription?tab=quota", 'type': 'access_terminated_error'}}
+vLLM unavailable, using mock response
+Qwen3 thinking 未产生 reasoning，可能未启用 thinking 模式或 max_new_tokens 不足
+[50/50] 病例75 gold=A;J pred=- ✗ official=0.00 F1=0.00 (1s)
+
+=== 病机任务汇总 ===
+{
+  "task": "病机",
+  "n": 50,
+  "official_score_mean": 0.0,
+  "exact_match": 0.0,
+  "hit_rate": 0.0,
+  "macro_f1": 0.0,
+  "unparsed": 50,
+  "avg_seconds": 0.4
+}

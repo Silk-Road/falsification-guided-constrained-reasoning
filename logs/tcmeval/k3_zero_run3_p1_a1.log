@@ -1,0 +1,73 @@
+零样本基线: model=k3 任务=both 条数=50
+  断点续跑：跳过 50 条
+
+=== 证型 零样本汇总 ===
+{
+  "task": "证型",
+  "model": "k3",
+  "n": 50,
+  "official_score_mean": 0.595,
+  "exact_match": 0.38,
+  "hit_rate": 0.84,
+  "macro_f1": 0.6658,
+  "avg_seconds": 65.1
+}
+  断点续跑：跳过 4 条
+[5/50] 病例90 gold=A;F pred=B;G ✗ official=0.00 (121s)
+[6/50] 病例283 gold=A;F pred=A;B;F;I ~ official=0.50 (99s)
+[7/50] 病例177 gold=I pred=F;I ~ official=0.50 (86s)
+[8/50] 病例74 gold=A;B;E;H pred=A;B;C;E;G;H ~ official=0.67 (114s)
+[9/50] 病例118 gold=B;G pred=B;G;J ~ official=0.67 (6s)
+[10/50] 病例18 gold=B;E;G;J pred=B;E;G ~ official=0.75 (64s)
+[11/50] 病例218 gold=D;I pred=D;I ✓ official=1.00 (68s)
+[12/50] 病例45 gold=C;H;I pred=C;F;H;I ~ official=0.75 (56s)
+[13/50] 病例297 gold=B pred=B ✓ official=1.00 (57s)
+[14/50] 病例217 gold=D;H;J pred=C;D;H ~ official=0.50 (16s)
+[15/50] 病例183 gold=F pred=F ✓ official=1.00 (24s)
+[16/50] 病例209 gold=A;F;G pred=A;F;G;I ~ official=0.75 (25s)
+[17/50] 病例165 gold=A;F;G;J pred=A;E;F;G ~ official=0.60 (67s)
+[18/50] 病例284 gold=A;E pred=E;I ~ official=0.33 (112s)
+[19/50] 病例73 gold=C;E;F;H pred=C;E;F;H ✓ official=1.00 (40s)
+[20/50] 病例52 gold=A;B;F pred=A;B;F ✓ official=1.00 (29s)
+[21/50] 病例182 gold=I pred=B ✗ official=0.00 (14s)
+[22/50] 病例203 gold=E;I pred=D;E;F;I ~ official=0.50 (27s)
+[23/50] 病例244 gold=G;H pred=A;D;F;G;H;J ~ official=0.33 (143s)
+[24/50] 病例319 gold=F pred=F;G ~ official=0.50 (64s)
+[25/50] 病例194 gold=D;F pred=D;F ✓ official=1.00 (15s)
+[26/50] 病例349 gold=B;I pred=B;D;I ~ official=0.67 (137s)
+[27/50] 病例64 gold=B;E pred=B;E;G ~ official=0.67 (108s)
+[28/50] 病例353 gold=A;B;D pred=B;C;D;F ~ official=0.40 (77s)
+[29/50] 病例11 gold=A;E;I pred=A;E;I ✓ official=1.00 (55s)
+[30/50] 病例279 gold=J pred=B;C;D ✗ official=0.00 (37s)
+[31/50] 病例79 gold=E;G pred=B;E;G ~ official=0.67 (60s)
+[32/50] 病例173 gold=A;J pred=A;B;I;J ~ official=0.50 (56s)
+[33/50] 病例320 gold=E;I pred=E;I ✓ official=1.00 (47s)
+[34/50] 病例253 gold=A;F pred=A;B;C ~ official=0.25 (66s)
+[35/50] 病例224 gold=A;I pred=A;I ✓ official=1.00 (90s)
+[36/50] 病例43 gold=B;G pred=B;G;J ~ official=0.67 (14s)
+[37/50] 病例276 gold=B;C pred=A;B;C;D ~ official=0.50 (100s)
+[38/50] 病例318 gold=B pred=A;B;I ~ official=0.33 (60s)
+[39/50] 病例201 gold=B;F pred=F ~ official=0.50 (24s)
+[40/50] 病例124 gold=B;F;G;J pred=B;G;J ~ official=0.75 (35s)
+[41/50] 病例309 gold=F pred=F ✓ official=1.00 (110s)
+[42/50] 病例17 gold=B;C;D;H;I;J pred=D;I;J ~ official=0.50 (63s)
+[43/50] 病例144 gold=B;G;J pred=- ✗ official=0.00 (236s)
+[44/50] 病例126 gold=D;F pred=B;C;D;F ~ official=0.50 (66s)
+[45/50] 病例106 gold=A;B;D pred=A;B;E ~ official=0.50 (129s)
+[46/50] 病例294 gold=G;I pred=C;G;I;J ~ official=0.50 (126s)
+[47/50] 病例139 gold=D;E;G;H pred=D;E;G;H ✓ official=1.00 (125s)
+[48/50] 病例131 gold=F;G;H pred=B;G;H ~ official=0.50 (92s)
+[49/50] 病例249 gold=E;G pred=B;C;E;G ~ official=0.50 (165s)
+[50/50] 病例80 gold=D;E;I pred=D;E;G;I ~ official=0.75 (17s)
+
+=== 病机 零样本汇总 ===
+{
+  "task": "病机",
+  "model": "k3",
+  "n": 50,
+  "official_score_mean": 0.5967,
+  "exact_match": 0.24,
+  "hit_rate": 0.9,
+  "macro_f1": 0.6961,
+  "avg_seconds": 72.8
+}

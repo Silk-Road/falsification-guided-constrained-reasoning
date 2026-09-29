@@ -1,0 +1,50 @@
+{"id": "病例30", "gold": ["H", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 85.3, "response_tail": ""}
+{"id": "病例350", "gold": ["G", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 97.0, "response_tail": ""}
+{"id": "病例46", "gold": ["I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 94.4, "response_tail": ""}
+{"id": "病例259", "gold": ["E"], "pred": ["D", "E"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 26.4, "response_tail": "患者急性起病，身目发黄、小便赤涩、舌苔黄腻、脉滑数有力，属湿热内蕴；湿热熏蒸肝胆则胆汁外溢发黄，呕吐腹泻为中焦湿困，神昏谵妄为湿热邪毒上犯于心、内扰心神。大便溏泄而非便秘，故非腑气不通或热结阳明；暂无明显伤阴耗气、肾虚、寒邪、瘀血等依据。\n\n答案：D;E"}
+{"id": "病例111", "gold": ["B", "E", "F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 84.9, "response_tail": ""}
+{"id": "病例150", "gold": ["E", "G", "I"], "pred": ["E", "G", "I"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 10.8, "response_tail": "本病例为结肠癌术后复发伴腹腔转移，长期失血、手术、肿瘤消耗，加上腹泻、纳呆、消瘦，舌淡、脉细无力，一派气血亏虚、脾胃运化不足之象。  \n无明显畏寒肢冷、腰膝酸软等肾阳虚证，亦无热邪、肝郁、风邪伏肺、汗伤气津等表现。\n\n答案：E;G;I"}
+{"id": "病例305", "gold": ["G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 81.9, "response_tail": ""}
+{"id": "病例225", "gold": ["E", "F", "I"], "pred": ["E", "F", "I"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 52.8, "response_tail": "本病例表现为四肢腰背关节疼痛，遇天气变化、寒冷加重，痛处游走不定，为风寒湿邪杂至、留注肌骨之痹证；脉浮濡缓、苔薄白，亦无热象。  \n活动后气短心悸、不思饮食、精神疲乏，为病久损伤脾胃，气血生化不足，心失所养；时觉小腹疼痛，提示病邪影响及下焦，故病机累及中、下二焦。  \n无痰象、无火热、无出血，故排除其余选项。\n\n答案：E;F;I"}
+{"id": "病例93", "gold": ["B", "D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 85.0, "response_tail": ""}
+{"id": "病例159", "gold": ["C", "D", "H"], "pred": ["C", "D", "G", "H"], "official": 0.75, "f1": 0.8571, "hit": true, "exact": false, "elapsed_s": 54.2, "response_tail": "患者素有腰膝酸痛、耳鸣、失眠、咽干，左尺脉重按似有似无，属肾阴亏损、水不涵木；情志紧张惊恐诱发肝阳暴亢，气血上冲，故面红、脉弦大、卒然昏倒。喉间痰声辘辘、牙关紧闭、昏睡不知人，为风痰交阻、蒙蔽清窍。舌红赤有滑液，亦符合阴虚阳亢兼痰浊内蕴。\n\n答案：C;D;G;H"}
+{"id": "病例85", "gold": ["B", "E", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 84.4, "response_tail": ""}
+{"id": "病例260", "gold": ["E"], "pred": ["E"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 14.5, "response_tail": "患者以双眼视力下降、视神经乳头苍白为主，伴眩晕心烦、怔忡健忘、梦扰难寐，舌润、脉虚弱。四诊合参，属心营不足、心神失养、目失血养，而非湿热、痰实、肝郁或胃热等实证；舌润亦不支持阴虚内热明显。  \n答案：E"}
+{"id": "病例53", "gold": ["B", "C"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 89.2, "response_tail": ""}
+{"id": "病例14", "gold": ["C", "D", "G", "I"], "pred": ["C", "E", "G", "I"], "official": 0.6, "f1": 0.75, "hit": true, "exact": false, "elapsed_s": 71.6, "response_tail": "病机分析：患者经前乳胀、胁肋苦胀、脉弦，为肝郁气滞、气滞不舒；经血色暗夹血块、少腹胀痛拒按、舌暗，以及西医“输卵管粘连”，属瘀血阻滞经脉；瘀血阻滞又可反过来阻碍气机，故气为血滞；带下色黄粘浊臭秽、苔黄腻、日晡低热，属湿蕴化热。其余选项与本案主症不符。\n\n答案：C;E;G;I"}
+{"id": "病例269", "gold": ["A", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 80.7, "response_tail": ""}
+{"id": "病例248", "gold": ["D", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 72.7, "response_tail": ""}
+{"id": "病例77", "gold": ["E", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 81.5, "response_tail": ""}
+{"id": "病例12", "gold": ["A", "D", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 82.2, "response_tail": ""}
+{"id": "病例191", "gold": ["A"], "pred": ["A"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 45.2, "response_tail": "本例为7个月婴儿，主要因喂养不当（断乳后喂牛奶、喂奶无定时）导致大便稀水或成块等不调表现；指纹淡红、苔中白腻提示中焦运化失常，有湿浊或乳食不化，尚未见肝、肾、冲气、痰浊上逆或脾肾阳虚等征象。因此病机主要是消化功能紊乱。\n\n答案：A"}
+{"id": "病例263", "gold": ["C"], "pred": ["C"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 23.2, "response_tail": "本病患者虽有下肢弛痿、腰痛等看似虚损之象，但前医迭进滋补肝肾、益气养血之剂反加重病情，说明并非虚证。  \n现症见胸闷腹胀、呕恶不欲食、头晕不支、苔滑，为湿浊中阻、气机升降失常；脉细涩而重按有力，非虚脉，乃湿浊痰阻、气滞壅塞之实证。  \n治疗以二陈汤燥湿化痰、理气和中，加枳实、白芥子、六曲、葛根等化痰消食、理气升清，药后湿浊得化，气机得通，下肢痿软随之恢复。故病机应为“湿浊壅滞”。\n\n答案：C"}
+{"id": "病例128", "gold": ["A", "G", "H"], "pred": ["A"], "official": 0.3333, "f1": 0.5, "hit": true, "exact": false, "elapsed_s": 66.7, "response_tail": "分析：患者左足痿软酸楚、不便步履，病变在下肢；溲黄、咽干、舌苔黄腻，为湿热内蕴、湿热下注、伤津化燥之象。湿热流注于下，阻滞筋脉，可致痿软不用。其余选项缺乏相应症状支持。  \n答案：A"}
+{"id": "病例254", "gold": ["A", "C"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 88.6, "response_tail": ""}
+{"id": "病例135", "gold": ["A", "C", "D", "F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 85.7, "response_tail": ""}
+{"id": "病例346", "gold": ["D", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 64.6, "response_tail": ""}
+{"id": "病例26", "gold": ["A", "B", "H", "I", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 79.0, "response_tail": ""}
+{"id": "病例110", "gold": ["A", "D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.1, "response_tail": ""}
+{"id": "病例226", "gold": ["B", "C"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.5, "response_tail": ""}
+{"id": "病例1", "gold": ["B", "C", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 82.5, "response_tail": ""}
+{"id": "病例49", "gold": ["D", "E", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 89.1, "response_tail": ""}
+{"id": "病例298", "gold": ["I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 86.6, "response_tail": ""}
+{"id": "病例280", "gold": ["E", "H"], "pred": ["H"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 12.2, "response_tail": "分析：患者汗出多于午后，汗后形寒，属气虚卫外不固，汗后阳气更伤；脉象虚濡、按之若无，为气虚之征；口干思饮为汗出伤津；自觉乏力亦属气虚表现。未见湿热、血瘀、肝风、肾阴不足等征象。\n\n答案：H"}
+{"id": "病例193", "gold": ["I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 92.7, "response_tail": ""}
+{"id": "病例198", "gold": ["A", "D", "E"], "pred": ["A", "B", "C", "D", "E", "F", "G", "J"], "official": 0.375, "f1": 0.5455, "hit": true, "exact": false, "elapsed_s": 48.2, "response_tail": "患儿反复发痫，发作时神识昏迷、口吐泡沫、作羊叫声，属痰浊内蕴、气壅上逆、闭塞心窍、气乱于上。发作后现四肢软乏、嗜睡、面白无华、脉细弱，为脾胃受伤、气血生化无源、血虚失养；手足振颤属血虚生风；神气怯弱则易发痫且嗜睡。无风热犯肺或寒邪之征。\n\n答案：A;B;C;D;E;F;G;J"}
+{"id": "病例101", "gold": ["I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 82.5, "response_tail": ""}
+{"id": "病例28", "gold": ["B", "I"], "pred": ["A", "B", "E", "I"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 65.3, "response_tail": "分析：患者过食陈腐韭菜猪肉包子，食停肠道，腑气不通，故见腹痛拒按、便秘、恶心呕吐；右下腹固定痛、腹皮急、右足蜷曲，属气血凝瘀、不通则痛；发热面赤、脉数，为瘀滞化热；舌苔白腻、脉滑，兼有食积湿浊，湿热蕴于下焦肠腑。病位在肠，属肠痈，非肝胆、肝肾、心阴、痰湿等病机。\n\n答案：A;B;E;I"}
+{"id": "病例257", "gold": ["B", "D"], "pred": ["B", "D", "E"], "official": 0.6667, "f1": 0.8, "hit": true, "exact": false, "elapsed_s": 56.6, "response_tail": "本病表现与中医“瘿病/瘿气”类似：甲状腺肿大、目突属痰热互结于颈前目系；心悸、易激动、失眠、手颤、脉弦数属肝阳偏亢、肝风内动；久病年高、多食善饥而消瘦、乏力多汗，又涉及肝脾肾三脏功能失调。  \n外感风热、气血两虚、肺气虚、饮邪化热、气化无力等均非本病主要病机。\n\n答案：B;D;E"}
+{"id": "病例192", "gold": ["C", "D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.8, "response_tail": ""}
+{"id": "病例233", "gold": ["E"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.2, "response_tail": ""}
+{"id": "病例214", "gold": ["E", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.8, "response_tail": "分析：患儿发热、咳嗽10日，午后热甚，舌红脉数，小溲黄赤，为有热；但不渴饮、苔白厚腻、脉滑，且腹胀拒按、不饥不食，提示湿浊痰湿内阻。喘咳胸满属上焦肺气不利、浊湿不化；脘腹不食胀满属中焦浊湿阻滞；两者又导致气机升降失调。湿浊郁久化热，可"}
+{"id": "病例61", "gold": ["G", "I", "J"], "pred": ["G", "I", "J"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 60.1, "response_tail": "患者长期经血淋沥不止，耗伤阴血，故见头晕目眩、心悸、面色苍白等血海空虚之象；腰酸耳鸣、潮热盗汗、口干咽燥、舌中剥、脉沉虚数，为肝肾之阴不足、虚热内生；月经淋沥日久，冲任不固受损，故经血不能自止。纳减神倦虽提示脾气不足，但舌剥、潮热、盗汗、脉数不支持脾阳虚久；亦无肝风、情志、痰湿、胎气等明确病机。\n\n答案：G;I;J"}
+{"id": "病例166", "gold": ["C", "F", "G", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 74.8, "response_tail": ""}
+{"id": "病例132", "gold": ["B", "C", "H"], "pred": ["B", "C", "H"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 27.4, "response_tail": "患者有明显右胁外伤史，痛处固定，局部隆起且有压痛，脉形濡涩，为瘀血留滞、络脉不通之象；血瘀日久阻滞气机，故亦有气为血滞。未见脾虚、痰风、肝阳、心火等病机。\n\n答案：B;C;H"}
+{"id": "病例19", "gold": ["C", "D", "F"], "pred": ["C", "D", "F"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 23.0, "response_tail": "本例辨证以湿热内蕴、湿邪下注、瘀血阻络为主：  \n舌红、苔黄腻、小便短赤、脉滑数为内有蕴热兼湿；下肢浮肿沉重、活动不便为湿邪阻滞；下肢疼痛麻木、紫斑为瘀血凝滞。口苦咽干虽似有少阳之象，但无寒热往来、胸胁苦满等典型少阳症，结合苔黄腻和下肢湿热瘀阻表现，不以“热入少阳”为主。余选项与本病例主症不符。\n\n答案：C;D;F"}
+{"id": "病例162", "gold": ["A", "B", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 78.7, "response_tail": ""}
+{"id": "病例15", "gold": ["A", "B", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.7, "response_tail": ""}
+{"id": "病例37", "gold": ["C", "E", "F", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 77.6, "response_tail": ""}
+{"id": "病例235", "gold": ["D", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 80.2, "response_tail": ""}
+{"id": "病例347", "gold": ["D", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 82.9, "response_tail": ""}
+{"id": "病例39", "gold": ["A", "D", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.6, "response_tail": ""}
+{"id": "病例65", "gold": ["G", "I"], "pred": ["A", "G"], "official": 0.3333, "f1": 0.5, "hit": true, "exact": false, "elapsed_s": 14.5, "response_tail": "本例为暑热之邪耗伤元气、热邪未清而伤阴分：  \n身热不退、午后热增、口干喜饮、小溲黄赤、舌红苔薄、脉数 → 热邪未尽，伤及阴分；  \n时自汗出、气短懒言、肢倦神疲、脉濡重按无力 → 暑热伤气，元气受损。  \n\n答案：A;G"}

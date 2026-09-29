@@ -1,0 +1,50 @@
+{"id": "病例340", "gold": ["D", "E", "H"], "pred": ["B"], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 40.4, "response_tail": "本例为痫证发作。患者以发作性抽搐、神昏为主，发作前左上肢发抖、眼睑抽动，为风邪走窜；发作时喉中痰鸣、口吐白沫、苔白、脉滑，为痰浊内盛；脉弦又主肝风。综合为风痰阻络、蒙蔽清窍所致。无痰火、阴虚、血瘀、湿热、脾寒等典型表现。\n\n答案：B"}
+{"id": "病例306", "gold": ["G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 71.2, "response_tail": ""}
+{"id": "病例304", "gold": ["J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 77.6, "response_tail": ""}
+{"id": "病例137", "gold": ["F", "I"], "pred": ["F", "I"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 6.4, "response_tail": "病已四五年，尿频、尿失禁、遇寒加重，伴有腰酸痛，病位在肾与膀胱。肾气不足则固摄无权，膀胱失约则小便不禁、频数。未见阴虚热象或他脏明显症状。\n\n答案：F;I"}
+{"id": "病例90", "gold": ["E"], "pred": ["E"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 5.2, "response_tail": "患者表现为眩晕头痛、口干咽痛、耳鸣、面红、腰酸痛、尿赤，舌绛少苔，脉细数，属阴虚不能制阳、虚火内生的“阴虚火旺”证。\n\n答案：E"}
+{"id": "病例283", "gold": ["G", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 72.5, "response_tail": ""}
+{"id": "病例177", "gold": ["D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 74.0, "response_tail": ""}
+{"id": "病例74", "gold": ["C", "D", "H"], "pred": ["C", "D", "I"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 59.6, "response_tail": "本例的关键在于：病前游泳后同房，致肾精亏虚、正气不足；暑热之邪乘虚内窜，深入厥阴、少阴两经。  \n现症见高热面赤、神昏不语、牙关紧闭、颈项强直、右上肢痉瘫、脉弦，为暑热引动肝风、热闭心包之象；心慌心悸、脉有间歇、小便失禁，又见房劳伤肾、心肾受损；呕吐咖啡色液体为热伤血络、迫血妄行。  \n虽有发热、便秘等，但舌苔薄白腻而非阳明腑实黄燥苔，故不以阳明腑经湿热为主。\n\n答案：C;D;I"}
+{"id": "病例118", "gold": ["D"], "pred": ["D"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 6.2, "response_tail": "本病例为长期便后直肠脱垂，病程迁延20年，伴消瘦乏力、食少便溏，舌质淡、苔薄白，脉细无力，属脾胃气虚、中气下陷所致，故辨证为脾气虚。\n\n答案：D"}
+{"id": "病例18", "gold": ["D", "G"], "pred": ["D", "G"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 50.2, "response_tail": "本例为“汗出当风”后风湿之邪乘虚侵袭，流注经络关节，故见关节游走性疼痛、屈伸不利、结节红斑；风性善行数变，故痛处游走。邪留经络，气血运行不畅，营卫郁滞，郁而化热，故见关节灼热感、咽痛、化验炎症指标升高等。  \n口不渴、身无汗、不恶寒、二便正常，舌淡红苔白，脉弦滑，均非阳明积热、痰热互结、瘀血凝滞或肝风内动等证。\n\n答案：D;G"}
+{"id": "病例218", "gold": ["A", "C"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.8, "response_tail": ""}
+{"id": "病例45", "gold": ["H", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 74.9, "response_tail": ""}
+{"id": "病例297", "gold": ["H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 80.8, "response_tail": ""}
+{"id": "病例217", "gold": ["E", "H", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 77.0, "response_tail": ""}
+{"id": "病例183", "gold": ["C"], "pred": ["C"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 14.8, "response_tail": "本病为水肿并发癃闭。小便涩痛、色赤、点滴不通，为热邪结聚下焦、膀胱气化不利；舌红少津、口干，为热盛伤津；六脉沉数，主里热。虽有“恐转尿毒症”及腹部肿胀，但尚无神昏等邪陷心包之象，亦无阳虚水泛或津气欲脱等表现。\n\n答案：C"}
+{"id": "病例209", "gold": ["G", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 72.6, "response_tail": ""}
+{"id": "病例165", "gold": ["C", "D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.4, "response_tail": ""}
+{"id": "病例284", "gold": ["A", "D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 73.5, "response_tail": ""}
+{"id": "病例73", "gold": ["F", "I"], "pred": ["F", "I"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 10.4, "response_tail": "本病例为急性感染发热，辨证要点为：高热、大渴、便秘腹胀、神志烦躁、舌红苔黄起芒刺、脉洪大，属于阳明热盛、燥热内结之象，既有气分热盛，又有阳明腑实。故选择：\n\n答案：F;I"}
+{"id": "病例52", "gold": ["A", "H"], "pred": ["A", "H"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 9.2, "response_tail": "本病例胃痛日久，频繁嗳气，脉弦，属肝郁气滞、肝胃不和；口咽干苦、便秘、舌红为气郁化热、热邪内郁之象。辨证以热郁气滞兼肝胃不和为主，未见明显血瘀、虚损或湿热中阻之征。\n\n答案：A;H"}
+{"id": "病例182", "gold": ["J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 77.9, "response_tail": ""}
+{"id": "病例203", "gold": ["H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.3, "response_tail": ""}
+{"id": "病例244", "gold": ["F", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 74.2, "response_tail": ""}
+{"id": "病例319", "gold": ["I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 71.2, "response_tail": ""}
+{"id": "病例194", "gold": ["B"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 74.3, "response_tail": ""}
+{"id": "病例349", "gold": ["F"], "pred": ["E", "F"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 17.9, "response_tail": "本病为痢后脾胃受伤，运化失司，湿滞停留于肠胃；脾虚气弱则见舌淡、脉缓、下坠感；湿滞肠中则大便带粘液、日行数次；脉弦主痛，故见腹痛。无血瘀、湿热、肾阳虚等明确征象。\n\n答案：E;F"}
+{"id": "病例64", "gold": ["D"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 71.0, "response_tail": ""}
+{"id": "病例353", "gold": ["C", "I"], "pred": ["A", "I"], "official": 0.3333, "f1": 0.5, "hit": true, "exact": false, "elapsed_s": 56.1, "response_tail": "分析：  \n患者久病肝积，正气已伤。面色苍白无华、神乏气短、疲乏无力、脉无力，为气虚之象；消瘦、口干便结、舌稍红、脉细数，为阴伤津亏之象；故属气阴两伤。  \n同时肝区刺痛难忍，胁下肿块质硬、表面不平、触痛明显，为瘀血内结成癥之征；气虚无力推动血行，又见疲乏、脉无力，综合属气虚血瘀。  \n牙龈出血、血小板及白细胞下降，亦与气虚不摄、瘀血内阻有关。  \n无痰火迷神、营卫不和、风湿内侵等典型表现；肝阴虚胁痛多为隐痛，且本例以刺痛癥块为主，故不作主要选择。\n\n答案：A;I"}
+{"id": "病例11", "gold": ["A", "I", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.0, "response_tail": ""}
+{"id": "病例279", "gold": ["F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.8, "response_tail": ""}
+{"id": "病例79", "gold": ["D"], "pred": ["D", "G"], "official": 0.5, "f1": 0.6667, "hit": true, "exact": false, "elapsed_s": 61.7, "response_tail": "病因为大惊而起，惊则气乱，恐则气下，伤及心肝阳气。  \n心阳虚则神失温养，故恐惧不眠、易惊醒、畏缩不前；肝阳虚则肝经寒凝，筋脉失煦，故身寒肢厥、拘急引阴筋；阳虚不固可见手足心汗出，发作后气陷于下而矢气尿多。  \n饮食减少为脾失健运之象；舌淡苔白、脉弦亦支持阳虚寒凝、病在肝经。\n\n答案：D;G"}
+{"id": "病例173", "gold": ["G", "J"], "pred": ["G", "J"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 59.6, "response_tail": "本例以紫癜为主症，伴头昏重、口渴不欲饮、大便溏、苔白厚腻，为湿浊内蕴之象；小便黄少、手足心热、脉濡数，为湿热内蕴之候；紫癜及舌质暗、边瘀紫，属湿热熏蒸血络、迫血外溢，兼有瘀滞。  \n并非单纯气虚不摄、肝肾阴亏或肝郁等证。\n\n答案：G;J"}
+{"id": "病例320", "gold": ["C", "I"], "pred": ["C", "I"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 56.6, "response_tail": "本病初起形寒发热、继则面脸浮肿，咳嗽、咽痛、脉浮数，为风邪犯肺、肺失宣降、水湿泛溢之风水相搏证；同时见苔腻、舌红起刺、溲赤量少、尿血，属湿热内蕴、热伤血络。故正确选项为C和I。\n\n答案：C;I"}
+{"id": "病例253", "gold": ["A", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 73.9, "response_tail": ""}
+{"id": "病例224", "gold": ["F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.9, "response_tail": ""}
+{"id": "病例43", "gold": ["E", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 70.9, "response_tail": ""}
+{"id": "病例276", "gold": ["B", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 72.7, "response_tail": ""}
+{"id": "病例318", "gold": ["E"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.5, "response_tail": ""}
+{"id": "病例201", "gold": ["J"], "pred": ["J"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 35.4, "response_tail": "本例为百日咳痉咳期表现，阵咳后吸气性鸡鸣声、面红流泪、舌干无津、脉细数，均为火郁于肺、肺失清肃、热伤津液之象，而无明显痰浊、血瘀、肝风或温热重症表现。\n\n答案：J"}
+{"id": "病例124", "gold": ["G", "I"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 72.8, "response_tail": ""}
+{"id": "病例309", "gold": ["B"], "pred": ["B"], "official": 1.0, "f1": 1.0, "hit": true, "exact": true, "elapsed_s": 6.4, "response_tail": "本病初起有发热、头痛、咳嗽、咽痛，为外感风热之象；继则声音嘶哑乃至完全失音，伴咽喉干燥、呼气灼热，属风热犯肺，肺气失宣，声道不利。小便赤涩、大便干结、舌红苔黄干、脉浮数，均为风热袭肺、热盛伤津之征。无痰热内蕴之痰黄量多等表现，亦无肝脾、命火、心脾等虚证或气郁、阳亢之象。\n\n答案：B"}
+{"id": "病例17", "gold": ["A", "E"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 73.7, "response_tail": ""}
+{"id": "病例144", "gold": ["F"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 72.3, "response_tail": ""}
+{"id": "病例126", "gold": ["B"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.0, "response_tail": ""}
+{"id": "病例106", "gold": ["I", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 80.9, "response_tail": ""}
+{"id": "病例294", "gold": ["D", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 75.7, "response_tail": ""}
+{"id": "病例139", "gold": ["D", "J"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 76.1, "response_tail": ""}
+{"id": "病例131", "gold": ["G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 70.9, "response_tail": ""}
+{"id": "病例249", "gold": ["D", "G"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 80.0, "response_tail": ""}
+{"id": "病例80", "gold": ["E", "H"], "pred": [], "official": 0.0, "f1": 0.0, "hit": false, "exact": false, "elapsed_s": 79.7, "response_tail": ""}

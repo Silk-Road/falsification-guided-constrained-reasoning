@@ -1,0 +1,290 @@
+{
+ "DS-Flash": {
+  "syndrome": {
+   "full": {
+    "n_terminated_cases": 200,
+    "under8k_point": [
+     200,
+     200
+    ],
+    "under8k_conservative": [
+     28,
+     200
+    ],
+    "under8k_hardbound": [
+     23,
+     200
+    ]
+   },
+   "rescue": {
+    "n_terminated_cases": 157,
+    "under8k_point": [
+     157,
+     157
+    ],
+    "under8k_conservative": [
+     21,
+     157
+    ],
+    "under8k_hardbound": [
+     17,
+     157
+    ]
+   },
+   "terminating": {
+    "n_terminated_cases": 43,
+    "under8k_point": [
+     43,
+     43
+    ],
+    "under8k_conservative": [
+     7,
+     43
+    ],
+    "under8k_hardbound": [
+     6,
+     43
+    ]
+   },
+   "rescue_under8k_point": {
+    "n": 157,
+    "zero": 0.1315,
+    "agent": 0.4944,
+    "delta": 0.3629
+   },
+   "rescue_under8k_conservative": {
+    "n": 21,
+    "zero": 0.172,
+    "agent": 0.5893,
+    "delta": 0.4174
+   },
+   "rate_median_tok_s": 104.9,
+   "rate_p25_p75": [
+    98.9,
+    109.2
+   ],
+   "anchor_min_s_zero8k": 66.9,
+   "n_zero_burned8k": 363,
+   "n_agent_burned_full": 19,
+   "subsets": {
+    "rescue": 157,
+    "terminating": 43
+   }
+  },
+  "pathogenesis": {
+   "full": {
+    "n_terminated_cases": 200,
+    "under8k_point": [
+     198,
+     200
+    ],
+    "under8k_conservative": [
+     68,
+     200
+    ],
+    "under8k_hardbound": [
+     60,
+     200
+    ]
+   },
+   "rescue": {
+    "n_terminated_cases": 168,
+    "under8k_point": [
+     166,
+     168
+    ],
+    "under8k_conservative": [
+     62,
+     168
+    ],
+    "under8k_hardbound": [
+     55,
+     168
+    ]
+   },
+   "terminating": {
+    "n_terminated_cases": 32,
+    "under8k_point": [
+     32,
+     32
+    ],
+    "under8k_conservative": [
+     6,
+     32
+    ],
+    "under8k_hardbound": [
+     5,
+     32
+    ]
+   },
+   "rescue_under8k_point": {
+    "n": 166,
+    "zero": 0.1153,
+    "agent": 0.4568,
+    "delta": 0.3415
+   },
+   "rescue_under8k_conservative": {
+    "n": 62,
+    "zero": 0.1009,
+    "agent": 0.3561,
+    "delta": 0.2551
+   },
+   "rate_median_tok_s": 102.5,
+   "rate_p25_p75": [
+    97.9,
+    108.4
+   ],
+   "anchor_min_s_zero8k": 64.6,
+   "n_zero_burned8k": 397,
+   "n_agent_burned_full": 18,
+   "subsets": {
+    "rescue": 168,
+    "terminating": 32
+   }
+  }
+ },
+ "DS-Pro": {
+  "syndrome": {
+   "full": {
+    "n_terminated_cases": 196,
+    "under8k_point": [
+     103,
+     196
+    ],
+    "under8k_conservative": [
+     103,
+     196
+    ],
+    "under8k_hardbound": [
+     24,
+     196
+    ]
+   },
+   "rescue": {
+    "n_terminated_cases": 73,
+    "under8k_point": [
+     34,
+     73
+    ],
+    "under8k_conservative": [
+     34,
+     73
+    ],
+    "under8k_hardbound": [
+     2,
+     73
+    ]
+   },
+   "terminating": {
+    "n_terminated_cases": 123,
+    "under8k_point": [
+     69,
+     123
+    ],
+    "under8k_conservative": [
+     69,
+     123
+    ],
+    "under8k_hardbound": [
+     22,
+     123
+    ]
+   },
+   "rescue_under8k_point": {
+    "n": 34,
+    "zero": 0.0,
+    "agent": 0.4838,
+    "delta": 0.4838
+   },
+   "rescue_under8k_conservative": {
+    "n": 34,
+    "zero": 0.0,
+    "agent": 0.4838,
+    "delta": 0.4838
+   },
+   "rate_median_tok_s": 44.9,
+   "rate_p25_p75": [
+    42.8,
+    48.4
+   ],
+   "anchor_min_s_zero8k": 140.8,
+   "n_zero_burned8k": 73,
+   "n_agent_burned_full": 4,
+   "subsets": {
+    "rescue": 75,
+    "terminating": 125
+   }
+  },
+  "pathogenesis": {
+   "full": {
+    "n_terminated_cases": 198,
+    "under8k_point": [
+     57,
+     198
+    ],
+    "under8k_conservative": [
+     57,
+     198
+    ],
+    "under8k_hardbound": [
+     35,
+     198
+    ]
+   },
+   "rescue": {
+    "n_terminated_cases": 98,
+    "under8k_point": [
+     23,
+     98
+    ],
+    "under8k_conservative": [
+     23,
+     98
+    ],
+    "under8k_hardbound": [
+     12,
+     98
+    ]
+   },
+   "terminating": {
+    "n_terminated_cases": 100,
+    "under8k_point": [
+     34,
+     100
+    ],
+    "under8k_conservative": [
+     34,
+     100
+    ],
+    "under8k_hardbound": [
+     23,
+     100
+    ]
+   },
+   "rescue_under8k_point": {
+    "n": 23,
+    "zero": 0.0,
+    "agent": 0.5145,
+    "delta": 0.5145
+   },
+   "rescue_under8k_conservative": {
+    "n": 23,
+    "zero": 0.0,
+    "agent": 0.5145,
+    "delta": 0.5145
+   },
+   "rate_median_tok_s": 49.4,
+   "rate_p25_p75": [
+    45.9,
+    52.3
+   ],
+   "anchor_min_s_zero8k": 145.9,
+   "n_zero_burned8k": 95,
+   "n_agent_burned_full": 2,
+   "subsets": {
+    "rescue": 98,
+    "terminating": 102
+   }
+  }
+ }
+}

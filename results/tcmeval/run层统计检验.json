@@ -1,0 +1,120 @@
+{
+ "run_level_tests": {
+  "DS-Flash [syndrome]": {
+   "zero_run_means": [
+    0.2867,
+    0.3054,
+    0.2758
+   ],
+   "agent_run_means": [
+    0.4853,
+    0.5947,
+    0.5877
+   ],
+   "delta": 0.2666,
+   "welch_t": 7.32,
+   "df": 2.2,
+   "p": 0.01320347221006779
+  },
+  "DS-Flash [pathogenesis]": {
+   "zero_run_means": [
+    0.2155,
+    0.1987,
+    0.2208
+   ],
+   "agent_run_means": [
+    0.3332,
+    0.5536,
+    0.56
+   ],
+   "delta": 0.2706,
+   "welch_t": 3.62,
+   "df": 2.0,
+   "p": 0.0671185317497669
+  },
+  "Kimi K3 [syndrome]": {
+   "zero_run_means": [
+    0.6364,
+    0.2452,
+    0.6062
+   ],
+   "agent_run_means": [
+    0.5687,
+    0.5766,
+    0.5822
+   ],
+   "delta": 0.0799,
+   "welch_t": 0.64,
+   "df": 2.0,
+   "p": 0.5900130380111357
+  },
+  "Kimi K3 [pathogenesis]": {
+   "zero_run_means": [
+    0.5064,
+    0.5757,
+    0.5857
+   ],
+   "agent_run_means": [
+    0.5294,
+    0.5305,
+    0.5108
+   ],
+   "delta": -0.0324,
+   "welch_t": -1.26,
+   "df": 2.3,
+   "p": 0.32282513754386755
+  },
+  "Qwen3-32B [syndrome]": {
+   "zero_run_means": [
+    0.5574,
+    0.5495,
+    0.5446
+   ],
+   "agent_run_means": [
+    0.4636,
+    0.4751,
+    0.453
+   ],
+   "delta": -0.0866,
+   "welch_t": -11.72,
+   "df": 3.2,
+   "p": 0.0009455685200570052
+  },
+  "Qwen3-32B [pathogenesis]": {
+   "zero_run_means": [
+    0.5259,
+    0.516,
+    0.5275
+   ],
+   "agent_run_means": [
+    0.4032,
+    0.4208,
+    0.4079
+   ],
+   "delta": -0.1125,
+   "welch_t": -17.65,
+   "df": 3.5,
+   "p": 0.00014218479901750847
+  }
+ },
+ "variance_ratio_tests": {
+  "K3 [syndrome]": {
+   "std_ratio": 32.0,
+   "F": 1025.0,
+   "p_two_sided": 0.0019494290942596582,
+   "std_ratio_ci95": [
+    5.1,
+    199.9
+   ]
+  },
+  "K3 [pathogenesis]": {
+   "std_ratio": 3.9,
+   "F": 15.0,
+   "p_two_sided": 0.12177693685714863,
+   "std_ratio_ci95": [
+    0.6,
+    24.5
+   ]
+  }
+ }
+}

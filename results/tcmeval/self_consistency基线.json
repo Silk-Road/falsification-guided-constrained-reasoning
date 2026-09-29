@@ -1,0 +1,42 @@
+{
+ "K3 (temp1.0 既有3轮)": {
+  "syndrome": {
+   "sc_majority": 0.6314,
+   "n": 200
+  },
+  "pathogenesis": {
+   "sc_majority": 0.5958,
+   "n": 200
+  }
+ },
+ "4B (temp0.7 批次4)": {
+  "syndrome": {
+   "sc_majority": 0.4789,
+   "n": 200
+  },
+  "pathogenesis": {
+   "sc_majority": 0.405,
+   "n": 200
+  }
+ },
+ "flash (贪心3轮,退化参考)": {
+  "syndrome": {
+   "sc_majority": 0.2675,
+   "n": 200
+  },
+  "pathogenesis": {
+   "sc_majority": 0.2017,
+   "n": 200
+  }
+ },
+ "32B (贪心3轮,退化参考)": {
+  "syndrome": {
+   "sc_majority": 0.5552,
+   "n": 200
+  },
+  "pathogenesis": {
+   "sc_majority": 0.5293,
+   "n": 200
+  }
+ }
+}

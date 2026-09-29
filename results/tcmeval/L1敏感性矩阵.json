@@ -1,0 +1,514 @@
+[
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 66.9,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 17,
+  "zero": 0.183,
+  "agent": 0.6473,
+  "delta": 0.4643,
+  "ci95": [
+   0.3319,
+   0.5966
+  ],
+  "wilcoxon_p": 0.00031548734314283667
+ },
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 66.9,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 17,
+  "zero": 0.183,
+  "agent": 0.6473,
+  "delta": 0.4643,
+  "ci95": [
+   0.3319,
+   0.5966
+  ],
+  "wilcoxon_p": 0.00031548734314283667
+ },
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 66.9,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 136,
+  "zero": 0.1379,
+  "agent": 0.5068,
+  "delta": 0.369,
+  "ci95": [
+   0.327,
+   0.4109
+  ],
+  "wilcoxon_p": 3.637105668126446e-22
+ },
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 66.9,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 151,
+  "zero": 0.1301,
+  "agent": 0.4983,
+  "delta": 0.3682,
+  "ci95": [
+   0.3289,
+   0.4075
+  ],
+  "wilcoxon_p": 1.8407855239288893e-24
+ },
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 21,
+  "zero": 0.172,
+  "agent": 0.5893,
+  "delta": 0.4174,
+  "ci95": [
+   0.299,
+   0.5357
+  ],
+  "wilcoxon_p": 9.435531950033605e-05
+ },
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 21,
+  "zero": 0.172,
+  "agent": 0.5893,
+  "delta": 0.4174,
+  "ci95": [
+   0.299,
+   0.5357
+  ],
+  "wilcoxon_p": 9.435531950033605e-05
+ },
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 141,
+  "zero": 0.1393,
+  "agent": 0.5041,
+  "delta": 0.3648,
+  "ci95": [
+   0.324,
+   0.4057
+  ],
+  "wilcoxon_p": 5.883354613489332e-23
+ },
+ {
+  "model": "DS-Flash",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 157,
+  "zero": 0.1315,
+  "agent": 0.4944,
+  "delta": 0.3629,
+  "ci95": [
+   0.3246,
+   0.4012
+  ],
+  "wilcoxon_p": 2.199920966156675e-25
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 64.6,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 7,
+  "zero": 0.0889,
+  "agent": 0.3262,
+  "delta": 0.2373,
+  "ci95": [
+   0.1396,
+   0.335
+  ],
+  "wilcoxon_p": 0.03603168621823358
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 64.6,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 55,
+  "zero": 0.1095,
+  "agent": 0.363,
+  "delta": 0.2534,
+  "ci95": [
+   0.2054,
+   0.3015
+  ],
+  "wilcoxon_p": 3.6064637078406944e-09
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 64.6,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 87,
+  "zero": 0.136,
+  "agent": 0.5353,
+  "delta": 0.3993,
+  "ci95": [
+   0.3495,
+   0.449
+  ],
+  "wilcoxon_p": 2.1351398011957935e-15
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 64.6,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 154,
+  "zero": 0.1199,
+  "agent": 0.4543,
+  "delta": 0.3344,
+  "ci95": [
+   0.2984,
+   0.3704
+  ],
+  "wilcoxon_p": 7.010976512946628e-25
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 8,
+  "zero": 0.0778,
+  "agent": 0.3382,
+  "delta": 0.2604,
+  "ci95": [
+   0.1644,
+   0.3564
+  ],
+  "wilcoxon_p": 0.02249427122244967
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 62,
+  "zero": 0.1009,
+  "agent": 0.3561,
+  "delta": 0.2551,
+  "ci95": [
+   0.2119,
+   0.2983
+  ],
+  "wilcoxon_p": 2.174117201505571e-10
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 97,
+  "zero": 0.1289,
+  "agent": 0.5354,
+  "delta": 0.4065,
+  "ci95": [
+   0.3591,
+   0.454
+  ],
+  "wilcoxon_p": 4.797336967199337e-17
+ },
+ {
+  "model": "DS-Flash",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 165,
+  "zero": 0.116,
+  "agent": 0.4577,
+  "delta": 0.3417,
+  "ci95": [
+   0.3065,
+   0.377
+  ],
+  "wilcoxon_p": 1.0611989433663957e-26
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 140.8,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 2,
+  "zero": 0.0,
+  "agent": 0.5834,
+  "delta": 0.5834,
+  "ci95": [
+   0.42,
+   0.7467
+  ],
+  "wilcoxon_p": 0.3710933695226976
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 140.8,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 2,
+  "zero": 0.0,
+  "agent": 0.5834,
+  "delta": 0.5834,
+  "ci95": [
+   0.42,
+   0.7467
+  ],
+  "wilcoxon_p": 0.3710933695226976
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 140.8,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 2,
+  "zero": 0.0,
+  "agent": 0.5834,
+  "delta": 0.5834,
+  "ci95": [
+   0.42,
+   0.7467
+  ],
+  "wilcoxon_p": 0.3710933695226976
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "rate_free_hard",
+  "threshold_s": 140.8,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 2,
+  "zero": 0.0,
+  "agent": 0.5834,
+  "delta": 0.5834,
+  "ci95": [
+   0.42,
+   0.7467
+  ],
+  "wilcoxon_p": 0.3710933695226976
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 0
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 0
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 0
+ },
+ {
+  "model": "DS-Pro",
+  "task": "syndrome",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 0
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 145.9,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 12,
+  "zero": 0.0,
+  "agent": 0.5042,
+  "delta": 0.5042,
+  "ci95": [
+   0.3482,
+   0.6601
+  ],
+  "wilcoxon_p": 0.00370152457484109
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 145.9,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 12,
+  "zero": 0.0,
+  "agent": 0.5042,
+  "delta": 0.5042,
+  "ci95": [
+   0.3482,
+   0.6601
+  ],
+  "wilcoxon_p": 0.00370152457484109
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 145.9,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 12,
+  "zero": 0.0,
+  "agent": 0.5042,
+  "delta": 0.5042,
+  "ci95": [
+   0.3482,
+   0.6601
+  ],
+  "wilcoxon_p": 0.00370152457484109
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "rate_free_hard",
+  "threshold_s": 145.9,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 12,
+  "zero": 0.0,
+  "agent": 0.5042,
+  "delta": 0.5042,
+  "ci95": [
+   0.3482,
+   0.6601
+  ],
+  "wilcoxon_p": 0.00370152457484109
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "all_runs_terminated",
+  "n": 1,
+  "zero": 0.0,
+  "agent": 0.5,
+  "delta": 0.5,
+  "ci95": [
+   0.5,
+   0.5
+  ],
+  "wilcoxon_p": 1.0
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "max",
+  "termination_requirement": "any_run_terminated",
+  "n": 1,
+  "zero": 0.0,
+  "agent": 0.5,
+  "delta": 0.5,
+  "ci95": [
+   0.5,
+   0.5
+  ],
+  "wilcoxon_p": 1.0
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "all_runs_terminated",
+  "n": 1,
+  "zero": 0.0,
+  "agent": 0.5,
+  "delta": 0.5,
+  "ci95": [
+   0.5,
+   0.5
+  ],
+  "wilcoxon_p": 1.0
+ },
+ {
+  "model": "DS-Pro",
+  "task": "pathogenesis",
+  "threshold": "calibrated_105tok_s",
+  "threshold_s": 78.0,
+  "aggregation": "median",
+  "termination_requirement": "any_run_terminated",
+  "n": 1,
+  "zero": 0.0,
+  "agent": 0.5,
+  "delta": 0.5,
+  "ci95": [
+   0.5,
+   0.5
+  ],
+  "wilcoxon_p": 1.0
+ }
+]

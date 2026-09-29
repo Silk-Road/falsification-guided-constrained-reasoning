@@ -1,0 +1,118 @@
+{
+ "DS-V4-Flash": {
+  "syndrome": {
+   "n": 200,
+   "answer_rate": 0.385,
+   "over_pred_ratio": 0.419,
+   "run_means": [
+    0.2867,
+    0.3054,
+    0.2758
+   ],
+   "run_std": 0.015,
+   "self_consistency": 0.6
+  },
+  "pathogenesis": {
+   "n": 200,
+   "answer_rate": 0.33,
+   "over_pred_ratio": 0.418,
+   "run_means": [
+    0.2155,
+    0.1987,
+    0.2208
+   ],
+   "run_std": 0.0115,
+   "self_consistency": 0.625
+  }
+ },
+ "DS-V4-Pro": {
+  "syndrome": {
+   "n": 200,
+   "answer_rate": 0.625,
+   "over_pred_ratio": 0.748
+  },
+  "pathogenesis": {
+   "n": 200,
+   "answer_rate": 0.51,
+   "over_pred_ratio": 0.661
+  }
+ },
+ "Kimi K3": {
+  "syndrome": {
+   "n": 200,
+   "answer_rate": 0.995,
+   "over_pred_ratio": 1.383,
+   "run_means": [
+    0.6364,
+    0.2452,
+    0.6062
+   ],
+   "run_std": 0.2177,
+   "self_consistency": 0.105
+  },
+  "pathogenesis": {
+   "n": 200,
+   "answer_rate": 0.97,
+   "over_pred_ratio": 1.426,
+   "run_means": [
+    0.5064,
+    0.5757,
+    0.5857
+   ],
+   "run_std": 0.0432,
+   "self_consistency": 0.37
+  }
+ },
+ "Qwen3-32B": {
+  "syndrome": {
+   "n": 200,
+   "answer_rate": 1.0,
+   "over_pred_ratio": 1.29,
+   "run_means": [
+    0.5574,
+    0.5495,
+    0.5446
+   ],
+   "run_std": 0.0065,
+   "self_consistency": 0.535
+  },
+  "pathogenesis": {
+   "n": 200,
+   "answer_rate": 1.0,
+   "over_pred_ratio": 1.279,
+   "run_means": [
+    0.5259,
+    0.516,
+    0.5275
+   ],
+   "run_std": 0.0062,
+   "self_consistency": 0.385
+  }
+ },
+ "Qwen3-4B": {
+  "syndrome": {
+   "n": 200,
+   "answer_rate": 0.995,
+   "over_pred_ratio": 1.464,
+   "run_means": [
+    0.4824,
+    0.4842,
+    0.4757
+   ],
+   "run_std": 0.0045,
+   "self_consistency": 0.82
+  },
+  "pathogenesis": {
+   "n": 200,
+   "answer_rate": 1.0,
+   "over_pred_ratio": 1.417,
+   "run_means": [
+    0.444,
+    0.4597,
+    0.461
+   ],
+   "run_std": 0.0095,
+   "self_consistency": 0.69
+  }
+ }
+}

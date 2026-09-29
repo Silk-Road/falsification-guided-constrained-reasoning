@@ -1,0 +1,18 @@
+{
+  "base_original": {
+    "accuracy": 0.943758573388203,
+    "k_acc": 0.9855699855699857
+  },
+  "base_misinformed": {
+    "accuracy": 0.9245541838134429,
+    "k_acc": 0.9466089466089466
+  },
+  "inst_misinformed": {
+    "accuracy": 0.9368998628257887,
+    "k_acc": 0.9595959595959596
+  },
+  "protocol_misinformed": {
+    "accuracy": 0.9794238683127572,
+    "k_acc": 0.9956709956709957
+  }
+}

@@ -1,0 +1,29 @@
+code/run_4b_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_zero_qwen4b_zero_run1_pathogenesis.jsonl: No such file or directory
+[09-12 00:56] 进度 syndrome=      91 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 66841 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 03:59] 进程退出（码 0），5 秒后重启
+code/run_4b_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_zero_qwen4b_zero_run1_pathogenesis.jsonl: No such file or directory
+[09-12 03:59] 进度 syndrome=     134 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 96863 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 08:25] 进程退出（码 0），5 秒后重启
+[09-12 08:25] 进度 syndrome=     200 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 40207 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 09:56] 进程退出（码 0），5 秒后重启
+[09-12 09:56] 进度 syndrome=     200 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 54726 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 14:23] 进程退出（码 0），5 秒后重启
+[09-12 14:24] 进度 syndrome=     200 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 97560 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 16:55] 进程退出（码 0），5 秒后重启
+[09-12 16:55] 进度 syndrome=     200 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 22489 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 17:40] 进程退出（码 0），5 秒后重启
+[09-12 17:41] 进度 syndrome=     200 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 29864 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 18:48] 进程退出（码 0），5 秒后重启
+[09-12 18:48] 进度 syndrome=     200 pathogenesis=��(重)启动
+code/run_4b_supervised.sh: line 12: 41525 Killed: 9               python3 -u "$DIR/code/eval_zeroshot_local.py" --tag qwen4b_zero_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4b_zero_run1.log" 2>&1
+[09-12 20:52] 进程退出（码 0），5 秒后重启
+[09-12 20:52] 进度 syndrome=     200 pathogenesis=��(重)启动
+[09-12 23:08] 进程退出（码 0），5 秒后重启
+4B ALL DONE

@@ -1,0 +1,10 @@
+{
+  "task": "证型",
+  "model": "k3",
+  "n": 50,
+  "official_score_mean": 0.2713,
+  "exact_match": 0.1,
+  "hit_rate": 0.64,
+  "macro_f1": 0.3498,
+  "avg_seconds": 25.3
+}

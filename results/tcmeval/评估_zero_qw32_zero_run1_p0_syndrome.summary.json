@@ -1,0 +1,10 @@
+{
+  "task": "证型",
+  "model": "Qwen/Qwen3-32B",
+  "n": 50,
+  "official_score_mean": 0.555,
+  "exact_match": 0.28,
+  "hit_rate": 0.92,
+  "macro_f1": 0.6578,
+  "avg_seconds": 29.7
+}

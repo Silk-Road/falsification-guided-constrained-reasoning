@@ -1,0 +1,21 @@
+数据: ~/data/Train_TCM_Data_v1.json  评测条数: 50  任务: both
+后端: vLLM @ https://api.deepseek.com/v1  模型: deepseek-v4-flash
+智能体就绪
+
+[1/50] 病例340 gold=D;E;H pred=B ✗ official=0.00 F1=0.00 (33s)
+[2/50] 病例306 gold=G pred=- ✗ official=0.00 F1=0.00 (158s)
+[3/50] 病例304 gold=J pred=- ✗ official=0.00 F1=0.00 (163s)
+[4/50] 病例137 gold=F;I pred=- ✗ official=0.00 F1=0.00 (146s)
+[5/50] 病例90 gold=E pred=- ✗ official=0.00 F1=0.00 (153s)
+[6/50] 病例283 gold=G;H pred=G ~ official=0.50 F1=0.67 (162s)
+[7/50] 病例177 gold=D pred=D ✓ official=1.00 F1=1.00 (17s)
+[8/50] 病例74 gold=C;D;H pred=- ✗ official=0.00 F1=0.00 (155s)
+[9/50] 病例118 gold=D pred=- ✗ official=0.00 F1=0.00 (136s)
+[10/50] 病例18 gold=D;G pred=- ✗ official=0.00 F1=0.00 (136s)
+[11/50] 病例218 gold=A;C pred=A;C ✓ official=1.00 F1=1.00 (153s)
+[12/50] 病例45 gold=H;I pred=H ~ official=0.50 F1=0.67 (11s)
+[13/50] 病例297 gold=H pred=- ✗ official=0.00 F1=0.00 (176s)
+[14/50] 病例217 gold=E;H;I pred=- ✗ official=0.00 F1=0.00 (157s)
+[15/50] 病例183 gold=C pred=C ✓ official=1.00 F1=1.00 (36s)
+[16/50] 病例209 gold=G;I pred=- ✗ official=0.00 F1=0.00 (126s)
+[17/50] 病例165 gold=C;D pred=- ✗ official=0.00 F1=0.00 (182s)

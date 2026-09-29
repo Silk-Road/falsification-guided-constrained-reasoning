@@ -1,0 +1,508 @@
+{
+ "per_run": {
+  "G0_full": {
+   "syndrome": {
+    "run_means": [
+     0.3799,
+     0.3593,
+     0.3564
+    ],
+    "mean": 0.3652,
+    "std": 0.0128,
+    "n_cases": 200,
+    "hit_rate": 67.5
+   },
+   "pathogenesis": {
+    "run_means": [
+     0.3234,
+     0.3397,
+     0.3406
+    ],
+    "mean": 0.3346,
+    "std": 0.0096,
+    "n_cases": 200,
+    "hit_rate": 74.2
+   }
+  },
+  "G1_no_matrix": {
+   "syndrome": {
+    "run_means": [
+     0.3854,
+     0.3974,
+     0.3799
+    ],
+    "mean": 0.3876,
+    "std": 0.0089,
+    "n_cases": 200,
+    "hit_rate": 59.0
+   },
+   "pathogenesis": {
+    "run_means": [
+     0.3235,
+     0.3114,
+     0.323
+    ],
+    "mean": 0.3193,
+    "std": 0.0068,
+    "n_cases": 200,
+    "hit_rate": 66.7
+   }
+  },
+  "G2_no_evidence": {
+   "syndrome": {
+    "run_means": [
+     0.3983,
+     0.4131,
+     0.397
+    ],
+    "mean": 0.4028,
+    "std": 0.009,
+    "n_cases": 200,
+    "hit_rate": 73.7
+   },
+   "pathogenesis": {
+    "run_means": [
+     0.3287,
+     0.3311,
+     0.3355
+    ],
+    "mean": 0.3318,
+    "std": 0.0035,
+    "n_cases": 200,
+    "hit_rate": 72.6
+   }
+  },
+  "G3_no_diff_guide": {
+   "syndrome": {
+    "run_means": [
+     0.3895,
+     0.3737,
+     0.4102
+    ],
+    "mean": 0.3911,
+    "std": 0.0183,
+    "n_cases": 200,
+    "hit_rate": 69.7
+   },
+   "pathogenesis": {
+    "run_means": [
+     0.3573,
+     0.353,
+     0.3295
+    ],
+    "mean": 0.3466,
+    "std": 0.015,
+    "n_cases": 200,
+    "hit_rate": 73.5
+   }
+  },
+  "G4_no_skill_noop": {
+   "syndrome": {
+    "run_means": [
+     0.3681,
+     0.3766,
+     0.373
+    ],
+    "mean": 0.3726,
+    "std": 0.0043,
+    "n_cases": 200,
+    "hit_rate": 67.8
+   },
+   "pathogenesis": {
+    "run_means": [
+     0.3377,
+     0.3243,
+     0.3377
+    ],
+    "mean": 0.3332,
+    "std": 0.0077,
+    "n_cases": 200,
+    "hit_rate": 74.5
+   }
+  },
+  "G4fix_no_skill": {
+   "syndrome": {
+    "run_means": [
+     0.362,
+     0.3701,
+     0.3595
+    ],
+    "mean": 0.3639,
+    "std": 0.0055,
+    "n_cases": 200,
+    "hit_rate": 79.4
+   },
+   "pathogenesis": {
+    "run_means": [
+     0.3512,
+     0.3543,
+     0.3556
+    ],
+    "mean": 0.3537,
+    "std": 0.0023,
+    "n_cases": 200,
+    "hit_rate": 79.0
+   }
+  }
+ },
+ "diagnostics": {
+  "G0_full": {
+   "syndrome": {
+    "run1": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   },
+   "pathogenesis": {
+    "run1": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   }
+  },
+  "G1_no_matrix": {
+   "syndrome": {
+    "run1": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   },
+   "pathogenesis": {
+    "run1": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   }
+  },
+  "G2_no_evidence": {
+   "syndrome": {
+    "run1": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 175
+    },
+    "run2": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 115
+    },
+    "run3": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   },
+   "pathogenesis": {
+    "run1": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 175
+    },
+    "run2": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   }
+  },
+  "G3_no_diff_guide": {
+   "syndrome": {
+    "run1": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   },
+   "pathogenesis": {
+    "run1": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   }
+  },
+  "G4_no_skill_noop": {
+   "syndrome": {
+    "run1": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   },
+   "pathogenesis": {
+    "run1": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run2": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    },
+    "run3": {
+     "files": 8,
+     "unique_ids": 200,
+     "dup_rows": 0
+    }
+   }
+  },
+  "G4fix_no_skill": {
+   "syndrome": {
+    "run1": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 158
+    },
+    "run2": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 200
+    },
+    "run3": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 200
+    }
+   },
+   "pathogenesis": {
+    "run1": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 196
+    },
+    "run2": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 195
+    },
+    "run3": {
+     "files": 4,
+     "unique_ids": 200,
+     "dup_rows": 196
+    }
+   }
+  }
+ },
+ "comparisons": {
+  "G1_no_matrix vs G0 [syndrome]": {
+   "n": 200,
+   "mean_G0": 0.3652,
+   "mean_Gx": 0.3876,
+   "diff": 0.0224,
+   "ci95": [
+    -0.0168,
+    0.0617
+   ],
+   "wilcoxon_p": 0.36632161631535837,
+   "hit_G0": 67.5,
+   "hit_Gx": 59.0,
+   "hit_diff_pp": -8.5
+  },
+  "G2_no_evidence vs G0 [syndrome]": {
+   "n": 200,
+   "mean_G0": 0.3652,
+   "mean_Gx": 0.4028,
+   "diff": 0.0376,
+   "ci95": [
+    -0.0055,
+    0.0807
+   ],
+   "wilcoxon_p": 0.1091122478543853,
+   "hit_G0": 67.5,
+   "hit_Gx": 73.7,
+   "hit_diff_pp": 6.2
+  },
+  "G3_no_diff_guide vs G0 [syndrome]": {
+   "n": 200,
+   "mean_G0": 0.3652,
+   "mean_Gx": 0.3911,
+   "diff": 0.0259,
+   "ci95": [
+    -0.0139,
+    0.0657
+   ],
+   "wilcoxon_p": 0.24287946615900785,
+   "hit_G0": 67.5,
+   "hit_Gx": 69.7,
+   "hit_diff_pp": 2.2
+  },
+  "G4_no_skill_noop vs G0 [syndrome]": {
+   "n": 200,
+   "mean_G0": 0.3652,
+   "mean_Gx": 0.3726,
+   "diff": 0.0074,
+   "ci95": [
+    -0.0121,
+    0.0269
+   ],
+   "wilcoxon_p": 0.6915486377315037,
+   "hit_G0": 67.5,
+   "hit_Gx": 67.8,
+   "hit_diff_pp": 0.3
+  },
+  "G4fix_no_skill vs G0 [syndrome]": {
+   "n": 200,
+   "mean_G0": 0.3652,
+   "mean_Gx": 0.3639,
+   "diff": -0.0013,
+   "ci95": [
+    -0.0417,
+    0.039
+   ],
+   "wilcoxon_p": 0.4800499856412381,
+   "hit_G0": 67.5,
+   "hit_Gx": 79.4,
+   "hit_diff_pp": 11.9
+  },
+  "G1_no_matrix vs G0 [pathogenesis]": {
+   "n": 200,
+   "mean_G0": 0.3346,
+   "mean_Gx": 0.3193,
+   "diff": -0.0153,
+   "ci95": [
+    -0.0535,
+    0.0229
+   ],
+   "wilcoxon_p": 0.07917787737136242,
+   "hit_G0": 74.2,
+   "hit_Gx": 66.7,
+   "hit_diff_pp": -7.5
+  },
+  "G2_no_evidence vs G0 [pathogenesis]": {
+   "n": 200,
+   "mean_G0": 0.3346,
+   "mean_Gx": 0.3318,
+   "diff": -0.0028,
+   "ci95": [
+    -0.0378,
+    0.0322
+   ],
+   "wilcoxon_p": 0.34994196517568626,
+   "hit_G0": 74.2,
+   "hit_Gx": 72.6,
+   "hit_diff_pp": -1.6
+  },
+  "G3_no_diff_guide vs G0 [pathogenesis]": {
+   "n": 200,
+   "mean_G0": 0.3346,
+   "mean_Gx": 0.3466,
+   "diff": 0.012,
+   "ci95": [
+    -0.0208,
+    0.0448
+   ],
+   "wilcoxon_p": 0.6206727780199526,
+   "hit_G0": 74.2,
+   "hit_Gx": 73.5,
+   "hit_diff_pp": -0.7
+  },
+  "G4_no_skill_noop vs G0 [pathogenesis]": {
+   "n": 200,
+   "mean_G0": 0.3346,
+   "mean_Gx": 0.3332,
+   "diff": -0.0013,
+   "ci95": [
+    -0.0178,
+    0.0151
+   ],
+   "wilcoxon_p": 0.7877293956050204,
+   "hit_G0": 74.2,
+   "hit_Gx": 74.5,
+   "hit_diff_pp": 0.3
+  },
+  "G4fix_no_skill vs G0 [pathogenesis]": {
+   "n": 200,
+   "mean_G0": 0.3346,
+   "mean_Gx": 0.3537,
+   "diff": 0.0191,
+   "ci95": [
+    -0.0194,
+    0.0576
+   ],
+   "wilcoxon_p": 0.2559070340199313,
+   "hit_G0": 74.2,
+   "hit_Gx": 79.0,
+   "hit_diff_pp": 4.8
+  }
+ }
+}

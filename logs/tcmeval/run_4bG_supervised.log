@@ -1,0 +1,435 @@
+code/run_4bG_supervised.sh: line 5: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_syndrome.jsonl: No such file or directory
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 00:27] 进度 syndrome=0 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 96050 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 00:58] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 00:58] 进度 syndrome=       2 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  1737 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 01:34] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 01:34] 进度 syndrome=       4 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  7894 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 02:12] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 02:12] 进度 syndrome=       6 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 14584 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 02:47] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 02:47] 进度 syndrome=       8 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 20932 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 03:31] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 03:31] 进度 syndrome=      10 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 28533 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 04:11] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 04:11] 进度 syndrome=      12 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 35408 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:02] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:02] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 43763 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:04] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:04] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 44400 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:10] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:10] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 46147 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:13] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:14] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 46876 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:15] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:16] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 47372 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:19] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:19] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 48226 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:22] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:22] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 48848 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:24] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:24] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 49347 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:26] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:26] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 49909 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:28] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:28] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 50400 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:31] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:32] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 51073 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:35] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:35] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 51830 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:37] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:37] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 52275 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:40] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:40] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 52945 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:42] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:42] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 53437 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:45] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:45] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 54191 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:49] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:50] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 55194 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:52] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:52] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 55687 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:54] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:54] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 56232 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:56] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:56] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 56713 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 05:58] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 05:58] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 57263 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:00] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:00] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 57703 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:01] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:02] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 58159 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:03] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:03] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 58574 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:06] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:07] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 59364 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:09] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:09] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 59876 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:12] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:12] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 60555 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:14] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:14] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 61066 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:16] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:16] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 61599 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:19] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:20] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 62334 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:22] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:22] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 62831 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:25] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:25] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 63524 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:28] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:28] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 64184 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:30] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:30] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 64737 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:34] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:34] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 65629 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:36] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:36] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 66171 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:40] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:40] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 67125 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 06:59] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 06:59] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 71233 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:01] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:01] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 71770 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:04] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:04] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 72392 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:06] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:06] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 72880 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:09] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:09] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 73496 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:11] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:12] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 73993 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:15] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:15] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 74675 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:17] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:17] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 75179 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:19] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:19] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 75728 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:21] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:22] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 76236 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:25] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:25] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 76967 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:28] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:28] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 77521 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:31] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:31] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 78281 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:35] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:35] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 79106 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:37] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:37] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 79640 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:39] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:39] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 80157 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:41] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:41] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 80614 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:44] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:44] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 81226 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:47] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:47] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 82035 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:50] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:50] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 82592 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:53] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:53] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 83208 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:55] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:55] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 83714 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 07:57] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 07:57] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 84206 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:00] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:00] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 84776 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:05] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:05] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 85886 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:07] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:08] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 86414 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:12] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:12] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 87402 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:14] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:14] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 87889 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:16] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:16] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 88361 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:20] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:20] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 89302 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:22] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:23] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 89794 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:26] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:26] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 90736 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:28] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:28] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 91215 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:30] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:30] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 91680 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:32] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:33] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 92157 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:35] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:35] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 92683 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:37] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:37] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 93161 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:39] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:39] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 93653 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:41] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:42] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 94360 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:44] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:45] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 94969 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:47] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:47] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 95481 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:49] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:49] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 95947 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:51] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:52] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 96833 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:54] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:54] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 97390 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:57] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 08:58] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 98296 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 08:59] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:00] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 98743 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:02] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:02] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 99322 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:04] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:04] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 99784 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:08] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:08] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:   828 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:13] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:13] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  2320 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:15] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:16] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  2800 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:20] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:20] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  3837 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:22] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:22] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  4408 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:25] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:25] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  5226 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:27] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:27] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  5657 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:29] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:29] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  6179 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:33] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:34] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  7193 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:37] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:37] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  8079 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:39] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:39] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  8573 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:42] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:43] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  9361 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:44] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:45] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12:  9804 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:46] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:46] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 10170 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:48] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:48] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 10622 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:50] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:50] 进度 syndrome=      14 pathogenesis=��(重)启动
+code/run_4bG_supervised.sh: line 12: 11102 Killed: 9               EVAL_GREEDY=1 EVAL_FP16=1 EVAL_MAX_TOKENS=8192 python3 -u "$DIR/code/eval_agent.py" --task both --tag qwen4bG_agent_run1 --outdir "$DIR/results" >> "$DIR/logs/qwen4bG_agent_run1.log" 2>&1
+[09-13 09:54] 进程退出（码 0），10 秒后重启
+code/run_4bG_supervised.sh: line 6: ~/tCMEval-SDt显著性检验_2026-09-06/results/评估_agent_qwen4bG_agent_run1_pathogenesis.jsonl: No such file or directory
+[09-13 09:54] 进度 syndrome=      14 pathogenesis=��(重)启动

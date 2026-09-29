@@ -1,0 +1,10 @@
+{
+  "task": "病机",
+  "model": "Qwen/Qwen3-4B",
+  "n": 50,
+  "official_score_mean": 0.4932,
+  "exact_match": 0.12,
+  "hit_rate": 0.94,
+  "macro_f1": 0.6213,
+  "avg_seconds": 16.6
+}

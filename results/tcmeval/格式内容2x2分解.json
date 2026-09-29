@@ -1,0 +1,146 @@
+{
+ "syndrome": {
+  "cell_means": {
+   "zero": 0.4808,
+   "format_only": 0.2396,
+   "G1_content_no_matrixformat": 0.3876,
+   "G5_content_format_no_matrix": 0.3924,
+   "full": 0.3652
+  },
+  "format_without_content": {
+   "n": 200,
+   "delta": -0.2412,
+   "ci95": [
+    -0.2985,
+    -0.1838
+   ],
+   "wilcoxon_p": 8.89567838955241e-13
+  },
+  "content_without_format": {
+   "n": 200,
+   "delta": -0.0932,
+   "ci95": [
+    -0.1497,
+    -0.0367
+   ],
+   "wilcoxon_p": 0.0038410385048257382
+  },
+  "format_with_content": {
+   "n": 200,
+   "delta": -0.0224,
+   "ci95": [
+    -0.0617,
+    0.0168
+   ],
+   "wilcoxon_p": 0.36632161631535837
+  },
+  "content_with_format": {
+   "n": 200,
+   "delta": 0.1256,
+   "ci95": [
+    0.068,
+    0.1832
+   ],
+   "wilcoxon_p": 1.3860184580228583e-05
+  },
+  "matrix_marginal_full_minus_g5": {
+   "n": 200,
+   "delta": -0.0272,
+   "ci95": [
+    -0.0658,
+    0.0113
+   ],
+   "wilcoxon_p": 0.11709324454371649
+  },
+  "content_with_format_no_matrix": {
+   "n": 200,
+   "delta": 0.1528,
+   "ci95": [
+    0.0936,
+    0.2121
+   ],
+   "wilcoxon_p": 1.705301412330931e-06
+  },
+  "format_with_content_no_matrix": {
+   "n": 200,
+   "delta": 0.0048,
+   "ci95": [
+    -0.0385,
+    0.0481
+   ],
+   "wilcoxon_p": 0.8030711310076505
+  }
+ },
+ "pathogenesis": {
+  "cell_means": {
+   "zero": 0.4549,
+   "format_only": 0.1724,
+   "G1_content_no_matrixformat": 0.3193,
+   "G5_content_format_no_matrix": 0.343,
+   "full": 0.3346
+  },
+  "format_without_content": {
+   "n": 200,
+   "delta": -0.2825,
+   "ci95": [
+    -0.3263,
+    -0.2387
+   ],
+   "wilcoxon_p": 1.767657562402487e-21
+  },
+  "content_without_format": {
+   "n": 200,
+   "delta": -0.1356,
+   "ci95": [
+    -0.1813,
+    -0.0899
+   ],
+   "wilcoxon_p": 2.1278096230093705e-08
+  },
+  "format_with_content": {
+   "n": 200,
+   "delta": 0.0153,
+   "ci95": [
+    -0.0229,
+    0.0535
+   ],
+   "wilcoxon_p": 0.07917787737136242
+  },
+  "content_with_format": {
+   "n": 200,
+   "delta": 0.1622,
+   "ci95": [
+    0.1134,
+    0.2109
+   ],
+   "wilcoxon_p": 3.6716275372530694e-10
+  },
+  "matrix_marginal_full_minus_g5": {
+   "n": 200,
+   "delta": -0.0084,
+   "ci95": [
+    -0.0445,
+    0.0276
+   ],
+   "wilcoxon_p": 0.5703257019141814
+  },
+  "content_with_format_no_matrix": {
+   "n": 200,
+   "delta": 0.1706,
+   "ci95": [
+    0.1221,
+    0.219
+   ],
+   "wilcoxon_p": 1.8552302183029187e-10
+  },
+  "format_with_content_no_matrix": {
+   "n": 200,
+   "delta": 0.0237,
+   "ci95": [
+    -0.0118,
+    0.0592
+   ],
+   "wilcoxon_p": 0.04827115107305636
+  }
+ }
+}
