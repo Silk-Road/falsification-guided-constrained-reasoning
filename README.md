@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23034930.svg)](https://doi.org/10.5281/zenodo.23034930)
+
 # Supplementary Code and Data
 
 **Paper**: Falsification-Guided Constrained Reasoning: A Model-Agnostic Agent Framework for Auditable Hypothesis-Driven Decision Making
